@@ -1,7 +1,7 @@
 ---
 date: "2012-12-29T13:00:00"
 title: "Admissible paths through a grid"
-description: ""
+description: "Problem 408"
 ---
 
 <p>Let's call a lattice point (<var>x</var>, <var>y</var>) <i>inadmissible</i> if <var>x</var>, <var>y</var> and <var>x</var> + <var>y</var> are all positive perfect squares.

@@ -1,7 +1,7 @@
 ---
 date: "2006-08-04T18:00:00"
 title: "Palindromic sums"
-description: ""
+description: "Problem 125"
 ---
 
 <p>The palindromic number 595 is interesting because it can be written as the sum of consecutive squares: 6<sup>2</sup> + 7<sup>2</sup> + 8<sup>2</sup> + 9<sup>2</sup> + 10<sup>2</sup> + 11<sup>2</sup> + 12<sup>2</sup>.</p>

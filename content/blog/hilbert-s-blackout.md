@@ -1,7 +1,7 @@
 ---
 date: "2015-06-28T04:00:00"
 title: "Hilbert's Blackout"
-description: ""
+description: "Problem 522"
 ---
 
 <p>Despite the popularity of Hilbert's infinite hotel, Hilbert decided to try managing extremely large finite hotels, instead.</p>

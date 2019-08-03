@@ -1,7 +1,7 @@
 ---
 date: "2012-06-16T17:00:00"
 title: "Platonic Dice"
-description: ""
+description: "Problem 389"
 ---
 
 <p>

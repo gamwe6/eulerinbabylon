@@ -1,7 +1,7 @@
 ---
 date: "2009-04-10T22:00:00"
 title: "Top Dice"
-description: ""
+description: "Problem 240"
 ---
 
 <p>There are 1111 ways in which five 6-sided dice (sides numbered 1 to 6) can be rolled so that the top three sum to 15. Some examples are:

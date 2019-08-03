@@ -1,7 +1,7 @@
 ---
 date: "2015-10-03T19:00:00"
 title: "Constrained Sums"
-description: ""
+description: "Problem 528"
 ---
 
 <p>Let S(<var>n</var>,<var>k</var>,<var>b</var>) represent the number of valid solutions to <var>x</var><sub>1</sub> + <var>x</var><sub>2</sub> + ... + <var>x</var><sub><var>k</var></sub> ≤ <var>n</var>, where 0 ≤ <var>x</var><sub><var>m</var></sub> ≤ <var>b</var><sup><var>m</var></sup> for all 1 ≤ <var>m</var> ≤ <var>k</var>.</p>

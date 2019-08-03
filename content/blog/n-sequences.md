@@ -1,7 +1,7 @@
 ---
 date: "2013-05-11T22:00:00"
 title: "n-sequences"
-description: ""
+description: "Problem 427"
 ---
 
 <p>A sequence of integers S = {s<sub><var>i</var></sub>} is called an <var>n-sequence</var> if it has <var>n</var> elements and each element s<sub><var>i</var></sub> satisfies 1 ≤ s<sub><var>i</var></sub> ≤ <var>n</var>. Thus there are <var>n</var><sup><var>n</var></sup> distinct <var>n</var>-sequences in total.

@@ -1,7 +1,7 @@
 ---
 date: "2006-09-29T18:00:00"
 title: "Hexagonal tile differences"
-description: ""
+description: "Problem 128"
 ---
 
 <p>A hexagonal tile with number 1 is surrounded by a ring of six hexagonal tiles, starting at "12 o'clock" and numbering the tiles 2 to 7 in an anti-clockwise direction.</p>

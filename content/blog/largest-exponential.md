@@ -1,7 +1,7 @@
 ---
 date: "2005-07-01T18:00:00"
 title: "Largest exponential"
-description: ""
+description: "Problem 99"
 ---
 
 <p>Comparing two numbers written in index form like 2<sup>11</sup> and 3<sup>7</sup> is not difficult, as any calculator would confirm that 2<sup>11</sup> = 2048 &lt; 3<sup>7</sup> = 2187.</p>

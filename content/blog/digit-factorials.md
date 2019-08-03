@@ -1,7 +1,7 @@
 ---
 date: "2003-01-03T18:00:00"
 title: "Digit factorials"
-description: ""
+description: "Problem 34"
 ---
 
 <p>145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.</p>

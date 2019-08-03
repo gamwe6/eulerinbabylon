@@ -1,7 +1,7 @@
 ---
 date: "2005-12-30T18:00:00"
 title: "Bouncy numbers"
-description: ""
+description: "Problem 112"
 ---
 
 <p>Working from left-to-right if no digit is exceeded by the digit to its left it is called an increasing number; for example, 134468.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-06-09T14:00:00"
 title: "Distinct Lines"
-description: ""
+description: "Problem 388"
 ---
 
 <p>

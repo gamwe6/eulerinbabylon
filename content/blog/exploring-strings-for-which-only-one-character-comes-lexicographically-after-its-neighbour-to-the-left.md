@@ -1,7 +1,7 @@
 ---
 date: "2007-06-15T14:00:00"
 title: "Exploring strings for which only one character comes lexicographically after its neighbour to the left"
-description: ""
+description: "Problem 158"
 ---
 
 <p>Taking three different letters from the 26 letters of the alphabet, character strings of length three can be formed.

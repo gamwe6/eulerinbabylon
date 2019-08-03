@@ -1,7 +1,7 @@
 ---
 date: "2015-06-21T01:00:00"
 title: "Smallest prime factor"
-description: ""
+description: "Problem 521"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2010-04-03T05:00:00"
 title: "Pythagorean odds"
-description: ""
+description: "Problem 285"
 ---
 
 <p>Albert chooses a positive integer <var>k</var>, then two real numbers <var>a</var>, <var>b</var> are randomly chosen in the interval [0,1] with uniform distribution.

@@ -1,7 +1,7 @@
 ---
 date: "2011-10-09T04:00:00"
 title: "Risky moon"
-description: ""
+description: "Problem 353"
 ---
 
 <p>

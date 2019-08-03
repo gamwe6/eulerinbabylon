@@ -1,7 +1,7 @@
 ---
 date: "2012-12-16T07:00:00"
 title: "Guessing Game"
-description: ""
+description: "Problem 406"
 ---
 
 <p>We are trying to find a hidden number selected from the set of integers {1, 2, ..., <var>n</var>} by asking questions. 

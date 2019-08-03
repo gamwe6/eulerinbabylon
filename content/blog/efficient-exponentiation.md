@@ -1,7 +1,7 @@
 ---
 date: "2006-06-02T18:00:00"
 title: "Efficient exponentiation"
-description: ""
+description: "Problem 122"
 ---
 
 <p>The most naive way of computing <i>n</i><sup>15</sup> requires fourteen multiplications:</p>

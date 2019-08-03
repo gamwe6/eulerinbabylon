@@ -1,7 +1,7 @@
 ---
 date: "2011-10-29T13:00:00"
 title: "Largest roots of cubic polynomials"
-description: ""
+description: "Problem 356"
 ---
 
 <p>

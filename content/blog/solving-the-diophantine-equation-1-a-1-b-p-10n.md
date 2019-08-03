@@ -1,7 +1,7 @@
 ---
 date: "2007-06-01T18:00:00"
 title: "Solving the diophantine equation 1/a+1/b= p/10n"
-description: ""
+description: "Problem 157"
 ---
 
 <p>Consider the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> with <var>a, b, p, n</var> positive integers and <var>a</var> ≤ <var>b</var>.

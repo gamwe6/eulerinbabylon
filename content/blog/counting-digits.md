@@ -1,7 +1,7 @@
 ---
 date: "2007-05-25T22:00:00"
 title: "Counting Digits"
-description: ""
+description: "Problem 156"
 ---
 
 <p>Starting from zero the natural numbers are written down in base 10 like this:

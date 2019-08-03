@@ -1,7 +1,7 @@
 ---
 date: "2015-11-28T19:00:00"
 title: "Modulo power identity "
-description: ""
+description: "Problem 536"
 ---
 
 <p>

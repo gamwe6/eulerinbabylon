@@ -1,7 +1,7 @@
 ---
 date: "2004-08-27T18:00:00"
 title: "Prime summations"
-description: ""
+description: "Problem 77"
 ---
 
 <p>It is possible to write ten as the sum of primes in exactly five different ways:</p>

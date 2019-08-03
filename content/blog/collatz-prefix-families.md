@@ -1,7 +1,7 @@
 ---
 date: "2014-12-20T19:00:00"
 title: "Collatz prefix families"
-description: ""
+description: "Problem 494"
 ---
 
 <p>

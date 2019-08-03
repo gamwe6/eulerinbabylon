@@ -1,7 +1,7 @@
 ---
 date: "2013-10-13T07:00:00"
 title: "GCD and Tiling"
-description: ""
+description: "Problem 440"
 ---
 
 <p>We want to tile a board of length <var>n</var> and height 1 completely, with either 1 × 2 blocks or 1 × 1 blocks with a single decimal digit on top:</p>

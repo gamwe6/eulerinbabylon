@@ -1,7 +1,7 @@
 ---
 date: "2009-05-29T21:00:00"
 title: "Squares under a hyperbola"
-description: ""
+description: "Problem 247"
 ---
 
 <p>Consider the region constrained by 1 ≤ <var>x</var> and 0 ≤ <var>y</var> ≤ <sup>1</sup>/<sub><var>x</var></sub>.

@@ -1,7 +1,7 @@
 ---
 date: "2006-10-27T18:00:00"
 title: "Repunit divisibility"
-description: ""
+description: "Problem 129"
 ---
 
 <p>A number consisting entirely of ones is called a repunit. We shall define R(<i>k</i>) to be a repunit of length <i>k</i>; for example, R(6) = 111111.</p>

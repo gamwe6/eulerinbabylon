@@ -1,7 +1,7 @@
 ---
 date: "2002-05-03T18:00:00"
 title: "Power digit sum"
-description: ""
+description: "Problem 16"
 ---
 
 <p>2<sup>15</sup> = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.</p>

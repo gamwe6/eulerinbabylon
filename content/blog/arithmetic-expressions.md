@@ -1,7 +1,7 @@
 ---
 date: "2005-04-15T18:00:00"
 title: "Arithmetic expressions"
-description: ""
+description: "Problem 93"
 ---
 
 <p>By using each of the digits from the set, {1, 2, 3, 4}, exactly once, and making use of the four arithmetic operations (+, −, *, /) and brackets/parentheses, it is possible to form different positive integer targets.</p>

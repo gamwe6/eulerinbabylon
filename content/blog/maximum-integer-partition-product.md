@@ -1,7 +1,7 @@
 ---
 date: "2012-03-03T19:00:00"
 title: "Maximum Integer Partition Product"
-description: ""
+description: "Problem 374"
 ---
 
 <p>An integer partition of a number <var>n</var> is a way of writing <var>n</var> as a sum of positive integers.</p>

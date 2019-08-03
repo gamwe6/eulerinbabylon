@@ -1,7 +1,7 @@
 ---
 date: "2011-03-12T22:00:00"
 title: "Lowest-cost Search"
-description: ""
+description: "Problem 328"
 ---
 
 <p>We are trying to find a hidden number selected from the set of integers {1, 2, ..., <var>n</var>} by asking questions. 

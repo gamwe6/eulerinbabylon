@@ -1,7 +1,7 @@
 ---
 date: "2009-05-09T14:00:00"
 title: "Sliders"
-description: ""
+description: "Problem 244"
 ---
 
 <p>You probably know the game <i>Fifteen Puzzle</i>. Here, instead of numbered tiles, we have seven red tiles and eight blue tiles.</p>

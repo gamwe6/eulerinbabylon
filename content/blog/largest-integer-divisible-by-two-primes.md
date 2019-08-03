@@ -1,7 +1,7 @@
 ---
 date: "2011-09-03T16:00:00"
 title: "Largest integer divisible by two primes"
-description: ""
+description: "Problem 347"
 ---
 
 <p>

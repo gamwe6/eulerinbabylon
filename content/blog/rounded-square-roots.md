@@ -1,7 +1,7 @@
 ---
 date: "2009-09-11T21:00:00"
 title: "Rounded Square Roots"
-description: ""
+description: "Problem 255"
 ---
 
 <p>We define the <i>rounded-square-root</i> of a positive integer <var>n</var> as the square root of <var>n</var> rounded to the nearest integer.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2002-01-25T18:00:00"
 title: "Special Pythagorean triplet"
-description: ""
+description: "Problem 9"
 ---
 
 <p>A Pythagorean triplet is a set of three natural numbers, <var>a</var> &lt; <var>b</var> &lt; <var>c</var>, for which,</p>

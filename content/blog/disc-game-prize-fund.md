@@ -1,7 +1,7 @@
 ---
 date: "2006-05-19T18:00:00"
 title: "Disc game prize fund"
-description: ""
+description: "Problem 121"
 ---
 
 <p>A bag contains one red disc and one blue disc. In a game of chance a player takes a disc at random and its colour is noted. After each turn the disc is returned to the bag, an extra red disc is added, and another disc is taken at random.</p>

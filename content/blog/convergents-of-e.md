@@ -1,7 +1,7 @@
 ---
 date: "2004-03-12T18:00:00"
 title: "Convergents of e"
-description: ""
+description: "Problem 65"
 ---
 
 <p>The square root of 2 can be written as an infinite continued fraction.</p>

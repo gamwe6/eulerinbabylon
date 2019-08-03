@@ -1,7 +1,7 @@
 ---
 date: "2005-04-01T18:00:00"
 title: "Square digit chains"
-description: ""
+description: "Problem 92"
 ---
 
 <p>A number chain is created by continuously adding the square of the digits in a number to form a new number until it has been seen before.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2011-11-05T16:00:00"
 title: "Prime generating integers"
-description: ""
+description: "Problem 357"
 ---
 
 <p>

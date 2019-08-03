@@ -1,7 +1,7 @@
 ---
 date: "2006-11-10T18:00:00"
 title: "Prime cube partnership"
-description: ""
+description: "Problem 131"
 ---
 
 <p>There are some prime values, <i>p</i>, for which there exists a positive integer, <i>n</i>, such that the expression <i>n</i><sup>3</sup> + <i>n</i><sup>2</sup><i>p</i> is a perfect cube.</p>

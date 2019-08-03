@@ -1,7 +1,7 @@
 ---
 date: "2010-04-10T09:00:00"
 title: "Quadtree encoding (a simple compression algorithm)"
-description: ""
+description: "Problem 287"
 ---
 
 <p>The quadtree encoding allows us to describe a 2<sup><var>N</var></sup>×2<sup><var>N</var></sup>  black and white image as a sequence of bits (0 and 1). Those sequences are to be read from left to right like this:

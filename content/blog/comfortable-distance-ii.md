@@ -1,7 +1,7 @@
 ---
 date: "2014-05-18T01:00:00"
 title: "Comfortable Distance II"
-description: ""
+description: "Problem 472"
 ---
 
 <p>There are <var>N</var> seats in a row. <var>N</var> people come one after another to fill the seats according to the following rules:

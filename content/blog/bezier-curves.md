@@ -1,7 +1,7 @@
 ---
 date: "2011-12-18T10:00:00"
 title: "Bézier Curves"
-description: ""
+description: "Problem 363"
 ---
 
 <p>A cubic Bézier curve is defined by four points: P<sub>0</sub>, P<sub>1</sub>, P<sub>2</sub> and P<sub>3</sub>.</p>

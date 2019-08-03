@@ -1,7 +1,7 @@
 ---
 date: "2003-04-25T18:00:00"
 title: "Coded triangle numbers"
-description: ""
+description: "Problem 42"
 ---
 
 <p>The <i>n</i><sup>th</sup> term of the sequence of triangle numbers is given by, <i>t<sub>n</sub></i> = ½<i>n</i>(<i>n</i>+1); so the first ten triangle numbers are:</p>

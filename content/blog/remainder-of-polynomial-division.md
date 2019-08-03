@@ -1,7 +1,7 @@
 ---
 date: "2015-01-18T07:00:00"
 title: "Remainder of polynomial division"
-description: ""
+description: "Problem 498"
 ---
 
 <p>For positive integers <var>n</var> and <var>m</var>, we define two polynomials F<sub><var>n</var></sub>(<var>x</var>) = <var>x</var><sup><var>n</var></sup> and G<sub><var>m</var></sub>(<var>x</var>) = (<var>x</var>-1)<sup><var>m</var></sup>.

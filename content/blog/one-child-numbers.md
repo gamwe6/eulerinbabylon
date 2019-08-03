@@ -1,7 +1,7 @@
 ---
 date: "2013-02-03T04:00:00"
 title: "One-child Numbers"
-description: ""
+description: "Problem 413"
 ---
 
 <p>We say that a <var>d</var>-digit positive number (no leading zeros) is a one-child number if exactly one of its sub-strings is divisible by <var>d</var>.</p>

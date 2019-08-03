@@ -1,7 +1,7 @@
 ---
 date: "2008-10-25T14:00:00"
 title: "Totient Chains"
-description: ""
+description: "Problem 214"
 ---
 
 <p>Let φ be Euler's totient function, i.e. for a natural number <var>n</var>,

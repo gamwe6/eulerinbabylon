@@ -1,7 +1,7 @@
 ---
 date: "2013-04-20T13:00:00"
 title: "Kakuro"
-description: ""
+description: "Problem 424"
 ---
 
 <div style="text-align:center;"><img alt="p424_kakuro1.gif" class="dark_img" src="/images/p424_kakuro1.gif"/></div>

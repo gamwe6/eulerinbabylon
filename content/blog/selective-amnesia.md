@@ -1,7 +1,7 @@
 ---
 date: "2010-06-25T21:00:00"
 title: "Selective Amnesia"
-description: ""
+description: "Problem 298"
 ---
 
 <p>Larry and Robin play a memory game involving of a sequence of random numbers between 1 and 10, inclusive, that are called out one at a time. Each player can remember up to 5 previous numbers. When the called number is in a player's memory, that player is awarded a point. If it's not, the player adds the called number to his memory, removing another number if his memory is full.</p>

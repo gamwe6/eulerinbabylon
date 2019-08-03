@@ -1,7 +1,7 @@
 ---
 date: "2013-09-07T16:00:00"
 title: "Polynomials of Fibonacci numbers"
-description: ""
+description: "Problem 435"
 ---
 
 <p>The <strong>Fibonacci numbers</strong> {f<sub>n</sub>, n ≥ 0} are defined recursively as f<sub>n</sub> = f<sub>n-1</sub> + f<sub>n-2</sub> with base cases f<sub>0</sub> = 0 and f<sub>1</sub> = 1.</p>

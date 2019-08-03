@@ -1,7 +1,7 @@
 ---
 date: "2013-11-09T19:00:00"
 title: "The Roundtable Lottery"
-description: ""
+description: "Problem 444"
 ---
 
 <p>A group of <var>p</var> people decide to sit down at a round table and play a lottery-ticket trading game. Each person starts off with a randomly-assigned, unscratched lottery ticket. Each ticket, when scratched, reveals a whole-pound prize ranging anywhere from £1 to £<var>p</var>, with no two tickets alike. The goal of the game is for each person to maximize his ticket winnings upon leaving the game.</p>

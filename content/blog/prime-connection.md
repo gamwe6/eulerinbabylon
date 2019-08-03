@@ -1,7 +1,7 @@
 ---
 date: "2013-04-27T16:00:00"
 title: "Prime connection"
-description: ""
+description: "Problem 425"
 ---
 
 <p>

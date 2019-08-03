@@ -1,7 +1,7 @@
 ---
 date: "2011-10-23T10:00:00"
 title: "Maximal coprime subset"
-description: ""
+description: "Problem 355"
 ---
 
 <p>

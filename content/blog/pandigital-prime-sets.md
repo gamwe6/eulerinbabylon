@@ -1,7 +1,7 @@
 ---
 date: "2006-03-24T18:00:00"
 title: "Pandigital prime sets"
-description: ""
+description: "Problem 118"
 ---
 
 <p>Using all of the digits 1 through 9 and concatenating them freely to form decimal integers, different sets can be formed. Interestingly with the set {2,5,47,89,631}, all of the elements belonging to it are prime.</p>

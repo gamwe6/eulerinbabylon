@@ -1,7 +1,7 @@
 ---
 date: "2014-06-01T07:00:00"
 title: "Last digits of divisors"
-description: ""
+description: "Problem 474"
 ---
 
 <p>

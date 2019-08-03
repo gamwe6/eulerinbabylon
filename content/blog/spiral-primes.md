@@ -1,7 +1,7 @@
 ---
 date: "2003-12-05T18:00:00"
 title: "Spiral primes"
-description: ""
+description: "Problem 58"
 ---
 
 <p>Starting with 1 and spiralling anticlockwise in the following way, a square spiral with side length 7 is formed.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2015-11-21T16:00:00"
 title: "Fractal Sequence"
-description: ""
+description: "Problem 535"
 ---
 
 <p>Consider the infinite integer sequence S starting with:<var>S</var> = 1, 1, 2, 1, 3, 2, 4, 1, 5, 3, 6, 2, 7, 8, 4, 9, 1, 10, 11, 5, ...</p>

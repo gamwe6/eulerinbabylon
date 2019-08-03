@@ -1,7 +1,7 @@
 ---
 date: "2010-11-20T22:00:00"
 title: "Biclinic Integral Quadrilaterals"
-description: ""
+description: "Problem 311"
 ---
 
 <p>ABCD is a convex, integer sided quadrilateral with 1 ≤ AB &lt; BC &lt; CD &lt; AD.

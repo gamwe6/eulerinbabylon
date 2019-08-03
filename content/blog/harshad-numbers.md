@@ -1,7 +1,7 @@
 ---
 date: "2012-06-03T11:00:00"
 title: "Harshad Numbers"
-description: ""
+description: "Problem 387"
 ---
 
 <p>A <b>Harshad or Niven number</b> is a number that is divisible by the sum of its digits.

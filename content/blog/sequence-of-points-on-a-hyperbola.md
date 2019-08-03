@@ -1,7 +1,7 @@
 ---
 date: "2013-04-07T07:00:00"
 title: "Sequence of points on a hyperbola"
-description: ""
+description: "Problem 422"
 ---
 
 <p>Let H be the hyperbola defined by the equation 12<var>x</var><sup>2</sup> + 7<var>x</var><var>y</var> - 12<var>y</var><sup>2</sup> = 625.</p>

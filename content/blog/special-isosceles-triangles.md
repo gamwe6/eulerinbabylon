@@ -1,7 +1,7 @@
 ---
 date: "2007-01-20T11:00:00"
 title: "Special isosceles triangles"
-description: ""
+description: "Problem 138"
 ---
 
 <p>Consider the isosceles triangle with base length, <i>b</i> = 16, and legs, L = 17.</p>

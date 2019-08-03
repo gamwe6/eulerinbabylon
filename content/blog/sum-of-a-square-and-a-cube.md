@@ -1,7 +1,7 @@
 ---
 date: "2011-09-03T16:00:00"
 title: "Sum of a square and a cube"
-description: ""
+description: "Problem 348"
 ---
 
 <p>Many numbers can be expressed as the sum of a square and a cube. Some of them in more than one way.</p>

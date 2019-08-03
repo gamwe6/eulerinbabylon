@@ -1,7 +1,7 @@
 ---
 date: "2008-04-11T17:00:00"
 title: "Tri-colouring a triangular grid"
-description: ""
+description: "Problem 189"
 ---
 
 <p>Consider the following configuration of 64 triangles:</p>

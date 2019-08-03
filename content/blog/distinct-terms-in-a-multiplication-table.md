@@ -1,7 +1,7 @@
 ---
 date: "2014-04-06T07:00:00"
 title: "Distinct terms in a multiplication table"
-description: ""
+description: "Problem 466"
 ---
 
 <p>Let P(<var>m</var>,<var>n</var>) be the number of <i>distinct</i> terms in an <var>m</var>×<var>n</var> multiplication table.</p>

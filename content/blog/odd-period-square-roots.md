@@ -1,7 +1,7 @@
 ---
 date: "2004-02-27T18:00:00"
 title: "Odd period square roots"
-description: ""
+description: "Problem 64"
 ---
 
 <p>All square roots are periodic when written as continued fractions and can be written in the form:</p>

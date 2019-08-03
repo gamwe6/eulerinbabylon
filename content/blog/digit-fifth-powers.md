@@ -1,7 +1,7 @@
 ---
 date: "2002-11-08T18:00:00"
 title: "Digit fifth powers"
-description: ""
+description: "Problem 30"
 ---
 
 <p>Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:</p>

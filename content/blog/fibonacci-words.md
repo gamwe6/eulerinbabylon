@@ -1,7 +1,7 @@
 ---
 date: "2009-01-31T13:00:00"
 title: "Fibonacci Words"
-description: ""
+description: "Problem 230"
 ---
 
 <p>For any two strings of digits, A and B, we define F<sub>A,B</sub> to be the sequence (A,B,AB,BAB,ABBAB,...) in which each term is the concatenation of the previous two.</p>

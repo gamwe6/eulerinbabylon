@@ -1,7 +1,7 @@
 ---
 date: "2015-04-11T19:00:00"
 title: "Sequences with nice divisibility properties"
-description: ""
+description: "Problem 511"
 ---
 
 <p>Let <var>Seq</var>(<var>n</var>,<var>k</var>) be the number of positive-integer sequences {<var>a<sub>i</sub></var>}<sub>1≤i≤<var>n</var></sub> of length <var>n</var> such that:</p>

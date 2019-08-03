@@ -1,7 +1,7 @@
 ---
 date: "2008-09-26T22:00:00"
 title: "Obtuse Angled Triangles"
-description: ""
+description: "Problem 210"
 ---
 
 Consider the set S(r) of points (x,y) with integer coordinates satisfying |x| + |y| ≤ r. 

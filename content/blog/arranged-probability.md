@@ -1,7 +1,7 @@
 ---
 date: "2005-07-15T18:00:00"
 title: "Arranged probability"
-description: ""
+description: "Problem 100"
 ---
 
 <p>If a box contains twenty-one coloured discs, composed of fifteen blue discs and six red discs, and two discs were taken at random, it can be seen that the probability of taking two blue discs, P(BB) = (15/21)×(14/20) = 1/2.</p>

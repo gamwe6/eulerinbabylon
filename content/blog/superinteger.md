@@ -1,7 +1,7 @@
 ---
 date: "2014-04-13T10:00:00"
 title: "Superinteger"
-description: ""
+description: "Problem 467"
 ---
 
 <p>An integer <var>s</var> is called a <em>superinteger</em> of another integer <var>n</var> if the digits of <var>n</var> form a <dfn title="A subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements.">subsequence</dfn> of the digits of <var>s</var>.

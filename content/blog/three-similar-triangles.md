@@ -1,7 +1,7 @@
 ---
 date: "2010-07-03T01:00:00"
 title: "Three similar triangles"
-description: ""
+description: "Problem 299"
 ---
 
 <p>Four points with integer coordinates are selected:A(<var>a</var>, 0), B(<var>b</var>, 0), C(0, <var>c</var>) and D(0, <var>d</var>), 

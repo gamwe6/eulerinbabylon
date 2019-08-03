@@ -1,7 +1,7 @@
 ---
 date: "2015-06-13T22:00:00"
 title: "Simbers"
-description: ""
+description: "Problem 520"
 ---
 
 <p>We define a <i>simber</i> to be a positive integer in which any odd digit, if present, occurs an odd number of times, and any even digit, if present, occurs an even number of times.</p>

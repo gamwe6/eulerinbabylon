@@ -1,7 +1,7 @@
 ---
 date: "2015-12-13T01:00:00"
 title: "Maximum quadrilaterals"
-description: ""
+description: "Problem 538"
 ---
 
 <p>Consider a positive integer sequence <var>S</var> = (<var>s</var><sub>1</sub>, <var>s</var><sub>2</sub>, ..., <var>s<sub>n</sub></var>).</p>

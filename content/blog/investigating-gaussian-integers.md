@@ -1,7 +1,7 @@
 ---
 date: "2007-05-05T10:00:00"
 title: "Investigating Gaussian Integers"
-description: ""
+description: "Problem 153"
 ---
 
 <p>As we all know the equation <var>x</var><sup>2</sup>=-1 has no solutions for real <var>x</var>.

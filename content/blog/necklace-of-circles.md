@@ -1,7 +1,7 @@
 ---
 date: "2013-05-19T01:00:00"
 title: "Necklace of circles"
-description: ""
+description: "Problem 428"
 ---
 
 <p>Let <var>a</var>, <var>b</var> and <var>c</var> be positive numbers.

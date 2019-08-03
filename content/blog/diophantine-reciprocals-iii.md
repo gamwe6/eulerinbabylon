@@ -1,7 +1,7 @@
 ---
 date: "2014-01-11T19:00:00"
 title: "Diophantine reciprocals III"
-description: ""
+description: "Problem 454"
 ---
 
 <p>In the following equation <var>x</var>, <var>y</var>, and <var>n</var> are positive integers.</p>

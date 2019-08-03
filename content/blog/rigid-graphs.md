@@ -1,7 +1,7 @@
 ---
 date: "2013-06-29T19:00:00"
 title: "Rigid graphs"
-description: ""
+description: "Problem 434"
 ---
 
 <p>Recall that a graph is a collection of vertices and edges connecting the vertices, and that two vertices connected by an edge are called adjacent.

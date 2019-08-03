@@ -1,7 +1,7 @@
 ---
 date: "2010-09-18T19:00:00"
 title: "Strong Achilles Numbers"
-description: ""
+description: "Problem 302"
 ---
 
 <p>

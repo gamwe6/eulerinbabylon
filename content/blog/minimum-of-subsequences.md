@@ -1,7 +1,7 @@
 ---
 date: "2012-03-10T22:00:00"
 title: "Minimum of subsequences"
-description: ""
+description: "Problem 375"
 ---
 
 <p>Let <var>S</var><sub><var>n</var></sub> be an integer sequence produced with the following pseudo-random number generator:</p>

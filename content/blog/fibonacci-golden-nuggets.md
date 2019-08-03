@@ -1,7 +1,7 @@
 ---
 date: "2007-01-12T18:00:00"
 title: "Fibonacci golden nuggets"
-description: ""
+description: "Problem 137"
 ---
 
 <p>Consider the infinite polynomial series A<sub>F</sub>(<i>x</i>) = <i>x</i>F<sub>1</sub> + <i>x</i><sup>2</sup>F<sub>2</sub> + <i>x</i><sup>3</sup>F<sub>3</sub> + ..., where F<sub><i>k</i></sub> is the <i>k</i>th term in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ... ; that is, F<sub><i>k</i></sub> = F<sub><i>k</i>−1</sub> + F<sub><i>k</i>−2</sub>, F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</p>

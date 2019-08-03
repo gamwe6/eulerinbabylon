@@ -1,7 +1,7 @@
 ---
 date: "2013-06-22T16:00:00"
 title: "Steps in Euclid's algorithm"
-description: ""
+description: "Problem 433"
 ---
 
 <p>

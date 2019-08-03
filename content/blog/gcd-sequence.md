@@ -1,7 +1,7 @@
 ---
 date: "2013-11-02T16:00:00"
 title: "GCD sequence"
-description: ""
+description: "Problem 443"
 ---
 
 <p>Let g(<var>n</var>) be a sequence defined as follows:

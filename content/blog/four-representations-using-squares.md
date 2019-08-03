@@ -1,7 +1,7 @@
 ---
 date: "2009-01-24T09:00:00"
 title: "Four Representations using Squares"
-description: ""
+description: "Problem 229"
 ---
 
 <p>Consider the number 3600. It is very special, because</p>

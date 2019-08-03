@@ -1,7 +1,7 @@
 ---
 date: "2015-02-21T22:00:00"
 title: "Square on the Inside"
-description: ""
+description: "Problem 504"
 ---
 
 <p>Let <var>ABCD</var> be a quadrilateral whose vertices are lattice points lying on the coordinate axes as follows:</p>

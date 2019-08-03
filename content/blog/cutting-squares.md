@@ -1,7 +1,7 @@
 ---
 date: "2009-12-26T01:00:00"
 title: "Cutting Squares"
-description: ""
+description: "Problem 270"
 ---
 
 <p>A square piece of paper with integer dimensions N×N is placed with a corner at the origin and two of its sides along the <var>x</var>- and <var>y</var>-axes. Then, we cut it up respecting the following rules:

@@ -1,7 +1,7 @@
 ---
 date: "2009-02-06T13:00:00"
 title: "The prime factorisation of binomial coefficients"
-description: ""
+description: "Problem 231"
 ---
 
 <p>The binomial coefficient <sup>10</sup>C<sub>3</sub> = 120.

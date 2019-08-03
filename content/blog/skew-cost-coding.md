@@ -1,7 +1,7 @@
 ---
 date: "2008-11-29T05:00:00"
 title: "Skew-cost coding"
-description: ""
+description: "Problem 219"
 ---
 
 <p>Let <span style="font-weight:bold;">A</span> and <span style="font-weight:bold;">B</span> be bit strings (sequences of 0's and 1's).

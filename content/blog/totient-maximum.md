@@ -1,7 +1,7 @@
 ---
 date: "2004-05-07T18:00:00"
 title: "Totient maximum"
-description: ""
+description: "Problem 69"
 ---
 
 <p>Euler's Totient function, φ(<i>n</i>) [sometimes called the phi function], is used to determine the number of numbers less than <i>n</i> which are relatively prime to <i>n</i>. For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prime to nine, φ(9)=6.</p>

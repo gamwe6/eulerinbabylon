@@ -1,7 +1,7 @@
 ---
 date: "2009-12-11T17:00:00"
 title: "Counting numbers with at least four distinct prime factors less than 100"
-description: ""
+description: "Problem 268"
 ---
 
 <p>It can be verified that there are 23 positive integers less than 1000 that are divisible by at least four distinct primes less than 100.</p>

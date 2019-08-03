@@ -1,7 +1,7 @@
 ---
 date: "2003-08-29T18:00:00"
 title: "Prime digit replacements"
-description: ""
+description: "Problem 51"
 ---
 
 <p>By replacing the 1<sup>st</sup> digit of the 2-digit number *3, it turns out that six of the nine possible values: 13, 23, 43, 53, 73, and 83, are all prime.</p>

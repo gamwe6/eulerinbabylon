@@ -1,7 +1,7 @@
 ---
 date: "2015-05-03T04:00:00"
 title: "Geoboard Shapes"
-description: ""
+description: "Problem 514"
 ---
 
 <p>A <b>geoboard</b> (of order <var>N</var>) is a square board with equally-spaced pins protruding from the surface, representing an integer point lattice for coordinates 0 ≤ <var>x</var>,<var>y</var> ≤ <var>N</var>.</p>

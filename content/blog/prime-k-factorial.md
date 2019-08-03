@@ -1,7 +1,7 @@
 ---
 date: "2012-04-21T17:00:00"
 title: "(prime-k) factorial"
-description: ""
+description: "Problem 381"
 ---
 
 <p>

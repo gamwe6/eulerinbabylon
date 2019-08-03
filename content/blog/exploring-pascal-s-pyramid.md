@@ -1,7 +1,7 @@
 ---
 date: "2007-05-12T06:00:00"
 title: "Exploring Pascal's pyramid"
-description: ""
+description: "Problem 154"
 ---
 
 <p>A triangular pyramid is constructed using spherical balls so that each ball rests on exactly three balls of the next lower level.</p>

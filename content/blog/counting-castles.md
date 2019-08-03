@@ -1,7 +1,7 @@
 ---
 date: "2015-02-07T16:00:00"
 title: "Counting Castles"
-description: ""
+description: "Problem 502"
 ---
 
 <p>We define a <i>block</i> to be a rectangle with a height of 1 and an integer-valued length. Let a <i>castle</i> be a configuration of stacked blocks.</p>

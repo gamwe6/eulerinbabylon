@@ -1,7 +1,7 @@
 ---
 date: "2011-05-29T07:00:00"
 title: "Crazy Function"
-description: ""
+description: "Problem 340"
 ---
 
 <p>

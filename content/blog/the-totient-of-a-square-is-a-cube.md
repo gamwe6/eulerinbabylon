@@ -1,7 +1,7 @@
 ---
 date: "2011-06-11T13:00:00"
 title: "The totient of a square is a cube"
-description: ""
+description: "Problem 342"
 ---
 
 <p>

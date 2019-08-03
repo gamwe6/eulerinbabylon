@@ -1,7 +1,7 @@
 ---
 date: "2009-11-21T09:00:00"
 title: "Binary Circles"
-description: ""
+description: "Problem 265"
 ---
 
 <p>2<sup>N</sup> binary digits can be placed in a circle so that all the N-digit clockwise subsequences are distinct.</p>

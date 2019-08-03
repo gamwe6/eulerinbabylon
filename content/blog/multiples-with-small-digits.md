@@ -1,7 +1,7 @@
 ---
 date: "2010-09-25T22:00:00"
 title: "Multiples with small digits"
-description: ""
+description: "Problem 303"
 ---
 
 <p>

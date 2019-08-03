@@ -1,7 +1,7 @@
 ---
 date: "2002-09-13T18:00:00"
 title: "Reciprocal cycles"
-description: ""
+description: "Problem 26"
 ---
 
 <p>A unit fraction contains 1 in the numerator. The decimal representation of the unit fractions with denominators 2 to 10 are given:</p>

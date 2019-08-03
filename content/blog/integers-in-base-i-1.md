@@ -1,7 +1,7 @@
 ---
 date: "2015-03-22T10:00:00"
 title: "Integers in base i-1"
-description: ""
+description: "Problem 508"
 ---
 
 <p>Consider the Gaussian integer i-1. A <b>base i-1 representation</b> of a Gaussian integer <var>a</var>+<var>b</var>i is a finite sequence of digits <var>d</var><sub><var>n</var>-1</sub><var>d</var><sub><var>n</var>-2</sub>...<var>d</var><sub>1</sub><var>d</var><sub>0</sub> such that:</p>

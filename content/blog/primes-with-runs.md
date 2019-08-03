@@ -1,7 +1,7 @@
 ---
 date: "2005-12-16T18:00:00"
 title: "Primes with runs"
-description: ""
+description: "Problem 111"
 ---
 
 <p>Considering 4-digit primes containing repeated digits it is clear that they cannot all be the same: 1111 is divisible by 11, 2222 is divisible by 22, and so on. But there are nine 4-digit primes containing three ones:</p>

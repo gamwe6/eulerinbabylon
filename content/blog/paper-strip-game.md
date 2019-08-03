@@ -1,7 +1,7 @@
 ---
 date: "2010-10-17T07:00:00"
 title: "Paper-strip Game"
-description: ""
+description: "Problem 306"
 ---
 
 <p>The following game is a classic example of Combinatorial Game Theory:</p>

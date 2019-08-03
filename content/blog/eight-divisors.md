@@ -1,7 +1,7 @@
 ---
 date: "2015-01-31T13:00:00"
 title: "Eight Divisors"
-description: ""
+description: "Problem 501"
 ---
 
 <p>The eight divisors of 24 are 1, 2, 3, 4, 6, 8, 12 and 24.

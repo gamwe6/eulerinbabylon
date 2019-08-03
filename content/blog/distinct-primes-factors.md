@@ -1,7 +1,7 @@
 ---
 date: "2003-07-04T18:00:00"
 title: "Distinct primes factors"
-description: ""
+description: "Problem 47"
 ---
 
 <p>The first two consecutive numbers to have two distinct prime factors are:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2010-03-27T01:00:00"
 title: "Steady Squares"
-description: ""
+description: "Problem 284"
 ---
 
 <p>The 3-digit number 376 in the decimal numbering system is an example of numbers with the special property that its square ends with the same digits: 376<sup>2</sup> = 141376. Let's call a number with this property a steady square.</p>

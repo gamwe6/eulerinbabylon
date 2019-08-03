@@ -1,7 +1,7 @@
 ---
 date: "2007-10-27T10:00:00"
 title: "Intersections"
-description: ""
+description: "Problem 165"
 ---
 
 <p>A segment is uniquely defined by its two endpoints. By considering two line segments in plane geometry there are three possibilities: 

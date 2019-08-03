@@ -1,7 +1,7 @@
 ---
 date: "2007-11-23T21:00:00"
 title: "Exploring the number of different ways a number can be expressed as a sum of powers of 2"
-description: ""
+description: "Problem 169"
 ---
 
 <p>Define f(0)=1 and f(<var>n</var>) to be the number of different ways <var>n</var> can be expressed as a sum of integer powers of 2 using each power no more than twice.</p>

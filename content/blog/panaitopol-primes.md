@@ -1,7 +1,7 @@
 ---
 date: "2010-05-07T21:00:00"
 title: "Panaitopol Primes"
-description: ""
+description: "Problem 291"
 ---
 
 <p>

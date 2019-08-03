@@ -1,7 +1,7 @@
 ---
 date: "2004-07-02T18:00:00"
 title: "Counting fractions in a range"
-description: ""
+description: "Problem 73"
 ---
 
 <p>Consider the fraction, <i>n/d</i>, where <i>n</i> and <i>d</i> are positive integers. If <i>n</i>&lt;<i>d</i> and HCF(<i>n,d</i>)=1, it is called a reduced proper fraction.</p>

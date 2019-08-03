@@ -1,7 +1,7 @@
 ---
 date: "2010-11-13T19:00:00"
 title: "Nim Square"
-description: ""
+description: "Problem 310"
 ---
 
 <p>

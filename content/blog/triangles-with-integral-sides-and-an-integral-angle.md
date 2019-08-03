@@ -1,7 +1,7 @@
 ---
 date: "2010-02-20T09:00:00"
 title: "Triangles with integral sides and an integral angle "
-description: ""
+description: "Problem 279"
 ---
 
 <p>

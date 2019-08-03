@@ -1,7 +1,7 @@
 ---
 date: "2003-11-21T18:00:00"
 title: "Square root convergents"
-description: ""
+description: "Problem 57"
 ---
 
 <p>It is possible to show that the square root of two can be expressed as an infinite continued fraction.</p>

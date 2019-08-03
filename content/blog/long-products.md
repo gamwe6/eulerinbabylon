@@ -1,7 +1,7 @@
 ---
 date: "2013-12-28T13:00:00"
 title: "Long Products"
-description: ""
+description: "Problem 452"
 ---
 
 <p>Define F(<var>m</var>,<var>n</var>) as the number of <var>n</var>-tuples of positive integers for which the product of the elements doesn't exceed <var>m</var>.</p>

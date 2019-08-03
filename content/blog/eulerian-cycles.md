@@ -1,7 +1,7 @@
 ---
 date: "2010-04-23T13:00:00"
 title: "Eulerian Cycles"
-description: ""
+description: "Problem 289"
 ---
 
 <p>Let C(<var>x</var>,<var>y</var>) be a circle passing through the points (<var>x</var>, <var>y</var>), (<var>x</var>, <var>y</var>+1), (<var>x</var>+1, <var>y</var>) and (<var>x</var>+1, <var>y</var>+1).</p>

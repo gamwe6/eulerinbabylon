@@ -1,7 +1,7 @@
 ---
 date: "2005-11-18T18:00:00"
 title: "Darts"
-description: ""
+description: "Problem 109"
 ---
 
 <p>In the game of darts a player throws three darts at a target board which is split into twenty equal sized sections numbered one to twenty.</p>

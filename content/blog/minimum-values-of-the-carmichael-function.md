@@ -1,7 +1,7 @@
 ---
 date: "2015-11-08T10:00:00"
 title: "Minimum values of the Carmichael function"
-description: ""
+description: "Problem 533"
 ---
 
 <p>The <b>Carmichael function</b> λ(<var>n</var>) is defined as the smallest positive integer <var>m</var> such that <var>a<sup>m</sup></var> = 1 modulo <var>n</var> for all integers <var>a</var> coprime with <var>n</var>.

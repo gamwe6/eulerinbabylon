@@ -1,7 +1,7 @@
 ---
 date: "2008-11-14T21:00:00"
 title: "Balanced Numbers"
-description: ""
+description: "Problem 217"
 ---
 
 <p>

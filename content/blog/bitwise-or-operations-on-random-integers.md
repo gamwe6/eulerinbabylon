@@ -1,7 +1,7 @@
 ---
 date: "2011-02-06T07:00:00"
 title: "Bitwise-OR operations on random integers"
-description: ""
+description: "Problem 323"
 ---
 
 <p>Let <var>y</var><sub>0</sub>, <var>y</var><sub>1</sub>, <var>y</var><sub>2</sub>,... be a sequence of random unsigned 32 bit integers

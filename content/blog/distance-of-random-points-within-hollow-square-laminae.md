@@ -1,7 +1,7 @@
 ---
 date: "2016-02-14T04:00:00"
 title: "Distance of random points within hollow square laminae"
-description: ""
+description: "Problem 547"
 ---
 
 <p>Assuming that two points are chosen randomly (with <b>uniform distribution</b>) within a rectangle, it is possible to determine the <b>expected value</b> of the distance between these two points.</p>

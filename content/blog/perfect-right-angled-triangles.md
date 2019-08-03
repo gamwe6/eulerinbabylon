@@ -1,7 +1,7 @@
 ---
 date: "2008-11-22T01:00:00"
 title: "Perfect right-angled triangles"
-description: ""
+description: "Problem 218"
 ---
 
 <p>Consider the right angled triangle with sides a=7, b=24 and c=25.

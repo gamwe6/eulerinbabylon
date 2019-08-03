@@ -1,7 +1,7 @@
 ---
 date: "2009-03-14T09:00:00"
 title: "Luxury Hampers"
-description: ""
+description: "Problem 236"
 ---
 
 <p>Suppliers 'A' and 'B' provided the following numbers of products for the luxury hamper market:</p>

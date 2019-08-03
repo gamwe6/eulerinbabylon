@@ -1,7 +1,7 @@
 ---
 date: "2002-02-22T18:00:00"
 title: "Largest product in a grid"
-description: ""
+description: "Problem 11"
 ---
 
 <p>In the 20×20 grid below, four numbers along a diagonal line have been marked in red.</p>

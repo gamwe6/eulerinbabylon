@@ -1,7 +1,7 @@
 ---
 date: "2014-12-27T22:00:00"
 title: "Writing n as the product of k distinct positive integers"
-description: ""
+description: "Problem 495"
 ---
 
 <p>Let <var>W</var>(<var>n</var>,<var>k</var>) be the number of ways in which <var>n</var> can be written as the product of <var>k</var> distinct positive integers.</p>

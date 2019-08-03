@@ -1,7 +1,7 @@
 ---
 date: "2012-02-25T16:00:00"
 title: "Circumscribed Circles"
-description: ""
+description: "Problem 373"
 ---
 
 <p>

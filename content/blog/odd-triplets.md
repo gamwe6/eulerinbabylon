@@ -1,7 +1,7 @@
 ---
 date: "2009-04-25T06:00:00"
 title: "Odd Triplets"
-description: ""
+description: "Problem 242"
 ---
 
 <p>Given the set {1,2,...,<var>n</var>}, we define <var>f</var>(<var>n</var>,<var>k</var>) as the number of its <var>k</var>-element subsets with an odd sum of elements. For example, <var>f</var>(5,3) = 4, since the set {1,2,3,4,5} has four 3-element subsets having an odd sum of elements, i.e.: {1,2,4}, {1,3,5}, {2,3,4} and {2,4,5}.</p>

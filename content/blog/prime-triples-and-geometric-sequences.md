@@ -1,7 +1,7 @@
 ---
 date: "2015-05-30T16:00:00"
 title: "Prime triples and geometric sequences"
-description: ""
+description: "Problem 518"
 ---
 
 <p>Let S(<var>n</var>) = Σ <var>a</var>+<var>b</var>+<var>c</var> over all triples (<var>a</var>,<var>b</var>,<var>c</var>) such that:</p>

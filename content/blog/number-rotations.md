@@ -1,7 +1,7 @@
 ---
 date: "2007-11-16T17:00:00"
 title: "Number Rotations"
-description: ""
+description: "Problem 168"
 ---
 
 <p>Consider the number 142857. We can right-rotate this number by moving the last digit (7) to the front of it, giving us 714285.

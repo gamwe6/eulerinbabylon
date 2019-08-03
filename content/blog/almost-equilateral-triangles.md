@@ -1,7 +1,7 @@
 ---
 date: "2005-04-29T18:00:00"
 title: "Almost equilateral triangles"
-description: ""
+description: "Problem 94"
 ---
 
 <p>It is easily proved that no equilateral triangle exists with integral length sides and integral area. However, the <i>almost equilateral triangle</i> 5-5-6 has an area of 12 square units.</p>

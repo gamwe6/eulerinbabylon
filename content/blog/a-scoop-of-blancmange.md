@@ -1,7 +1,7 @@
 ---
 date: "2009-01-02T21:00:00"
 title: "A Scoop of Blancmange"
-description: ""
+description: "Problem 226"
 ---
 
 <p>The <i>blancmange curve</i> is the set of points $(x, y)$ such that $0 \le x \le 1$ and $y = \sum \limits_{n = 0}^{\infty} {\dfrac{s(2^n x)}{2^n}}$, where $s(x)$ is the distance from $x$ to the nearest integer.</p>

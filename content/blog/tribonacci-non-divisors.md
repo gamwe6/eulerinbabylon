@@ -1,7 +1,7 @@
 ---
 date: "2008-12-26T17:00:00"
 title: "Tribonacci non-divisors"
-description: ""
+description: "Problem 225"
 ---
 
 <p>

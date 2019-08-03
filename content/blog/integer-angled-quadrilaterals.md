@@ -1,7 +1,7 @@
 ---
 date: "2008-01-11T21:00:00"
 title: "Integer angled Quadrilaterals"
-description: ""
+description: "Problem 177"
 ---
 
 <p>Let ABCD be a convex quadrilateral, with diagonals AC and BD. At each vertex the diagonal makes an angle with each of the two sides, creating eight corner angles.</p>

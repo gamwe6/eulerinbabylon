@@ -1,7 +1,7 @@
 ---
 date: "2005-09-09T18:00:00"
 title: "Pandigital Fibonacci ends"
-description: ""
+description: "Problem 104"
 ---
 
 <p>The Fibonacci sequence is defined by the recurrence relation:</p>

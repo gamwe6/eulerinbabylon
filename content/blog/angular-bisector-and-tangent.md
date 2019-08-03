@@ -1,7 +1,7 @@
 ---
 date: "2010-06-11T13:00:00"
 title: "Angular Bisector and Tangent"
-description: ""
+description: "Problem 296"
 ---
 
 <p>

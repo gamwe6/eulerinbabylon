@@ -1,7 +1,7 @@
 ---
 date: "2005-08-12T18:00:00"
 title: "Triangle containment"
-description: ""
+description: "Problem 102"
 ---
 
 <p>Three distinct points are plotted at random on a Cartesian plane, for which -1000 ≤ <i>x</i>, <i>y</i> ≤ 1000, such that a triangle is formed.</p>

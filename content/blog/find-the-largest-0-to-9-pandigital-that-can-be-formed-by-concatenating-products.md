@@ -1,7 +1,7 @@
 ---
 date: "2007-12-01T01:00:00"
 title: "Find the largest 0 to 9 pandigital that can be formed by concatenating products"
-description: ""
+description: "Problem 170"
 ---
 
 <p>Take the number 6 and multiply it by each of 1273 and 9854:</p>

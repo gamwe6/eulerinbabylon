@@ -1,7 +1,7 @@
 ---
 date: "2012-05-20T05:00:00"
 title: "Ellipses inside triangles"
-description: ""
+description: "Problem 385"
 ---
 
 <p>

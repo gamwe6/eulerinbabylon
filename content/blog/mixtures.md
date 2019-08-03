@@ -1,7 +1,7 @@
 ---
 date: "2014-08-30T19:00:00"
 title: "Mixtures"
-description: ""
+description: "Problem 478"
 ---
 
 <p>Let us consider <b>mixtures</b> of three substances: <b>A</b>, <b>B</b> and <b>C</b>. A mixture can be described by a ratio of the amounts of <b>A</b>, <b>B</b>, and <b>C</b> in it, i.e., (<var>a</var> : <var>b</var> : <var>c</var>). For example, a mixture described by the ratio (2 : 3 : 5) contains 20% <b>A</b>, 30% <b>B</b> and 50% <b>C</b>.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-03-25T05:00:00"
 title: "Sum of digits, experience 13"
-description: ""
+description: "Problem 377"
 ---
 
 <p>

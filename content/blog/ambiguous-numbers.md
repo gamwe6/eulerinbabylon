@@ -1,7 +1,7 @@
 ---
 date: "2008-06-14T02:00:00"
 title: "Ambiguous Numbers"
-description: ""
+description: "Problem 198"
 ---
 
 <p>A best approximation to a real number <var>x</var> for the denominator bound <var>d</var> is a rational number <var>r</var>/<var>s</var> (in reduced form) with <var>s</var> ≤ <var>d</var>, so that any rational number <var>p</var>/<var>q</var> which is closer to <var>x</var> than <var>r</var>/<var>s</var> has <var>q</var> &gt; <var>d</var>.</p>

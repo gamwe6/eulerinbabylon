@@ -1,7 +1,7 @@
 ---
 date: "2008-09-06T14:00:00"
 title: "Dice Game"
-description: ""
+description: "Problem 205"
 ---
 
 <p>Peter has nine four-sided (pyramidal) dice, each with faces numbered 1, 2, 3, 4.

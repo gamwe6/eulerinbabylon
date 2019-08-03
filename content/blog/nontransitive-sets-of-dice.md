@@ -1,7 +1,7 @@
 ---
 date: "2012-03-18T01:00:00"
 title: "Nontransitive sets of dice"
-description: ""
+description: "Problem 376"
 ---
 
 <p>

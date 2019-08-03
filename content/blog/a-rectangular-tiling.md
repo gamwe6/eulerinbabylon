@@ -1,7 +1,7 @@
 ---
 date: "2012-12-09T04:00:00"
 title: "A rectangular tiling"
-description: ""
+description: "Problem 405"
 ---
 
 <p>

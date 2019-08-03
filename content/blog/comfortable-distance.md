@@ -1,7 +1,7 @@
 ---
 date: "2011-12-24T13:00:00"
 title: "Comfortable distance"
-description: ""
+description: "Problem 364"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-06-30T23:00:00"
 title: "Hopping Game"
-description: ""
+description: "Problem 391"
 ---
 
 <p>

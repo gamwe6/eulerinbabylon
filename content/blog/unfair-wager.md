@@ -1,7 +1,7 @@
 ---
 date: "2013-09-14T19:00:00"
 title: "Unfair wager"
-description: ""
+description: "Problem 436"
 ---
 
 <p>Julie proposes the following wager to her sister Louise.

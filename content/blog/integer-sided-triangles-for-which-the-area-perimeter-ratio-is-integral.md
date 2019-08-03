@@ -1,7 +1,7 @@
 ---
 date: "2010-03-19T21:00:00"
 title: "Integer sided triangles for which the  area/perimeter ratio is integral"
-description: ""
+description: "Problem 283"
 ---
 
 <p>

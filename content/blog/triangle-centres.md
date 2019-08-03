@@ -1,7 +1,7 @@
 ---
 date: "2009-11-14T05:00:00"
 title: "Triangle Centres"
-description: ""
+description: "Problem 264"
 ---
 
 <p>Consider all the triangles having:

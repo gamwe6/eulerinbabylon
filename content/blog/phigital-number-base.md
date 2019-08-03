@@ -1,7 +1,7 @@
 ---
 date: "2014-05-25T04:00:00"
 title: "Phigital number base"
-description: ""
+description: "Problem 473"
 ---
 
 <p>

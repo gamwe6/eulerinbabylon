@@ -1,7 +1,7 @@
 ---
 date: "2013-06-15T13:00:00"
 title: "Totient sum"
-description: ""
+description: "Problem 432"
 ---
 
 <p>

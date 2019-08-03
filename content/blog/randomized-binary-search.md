@@ -1,7 +1,7 @@
 ---
 date: "2015-09-26T16:00:00"
 title: "Randomized Binary Search"
-description: ""
+description: "Problem 527"
 ---
 
 <p>A secret integer <var>t</var> is selected at random within the range 1 ≤ <var>t</var> ≤ <var>n</var>. </p>

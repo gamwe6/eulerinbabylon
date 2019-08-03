@@ -1,7 +1,7 @@
 ---
 date: "2013-01-05T16:00:00"
 title: "Nim Extreme"
-description: ""
+description: "Problem 409"
 ---
 
 <p>Let <var>n</var> be a positive integer. Consider <b>nim</b> positions where:</p><ul><li>There are <var>n</var> non-empty piles.

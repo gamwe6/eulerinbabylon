@@ -1,7 +1,7 @@
 ---
 date: "2007-02-17T05:00:00"
 title: "Investigating progressive numbers, n, which are also square"
-description: ""
+description: "Problem 141"
 ---
 
 <p>A positive integer, <i>n</i>, is divided by <i>d</i> and the quotient and remainder are <i>q</i> and <i>r</i> respectively. In addition <i>d</i>, <i>q</i>, and <i>r</i> are consecutive positive integer terms in a geometric sequence, but not necessarily in that order.</p>

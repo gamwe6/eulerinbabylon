@@ -1,7 +1,7 @@
 ---
 date: "2007-04-20T18:00:00"
 title: "Paper sheets of standard sizes: an expected-value problem"
-description: ""
+description: "Problem 151"
 ---
 
 <p>A printing shop runs 16 batches (jobs) every week and each batch requires a sheet of special colour-proofing paper of size A5.</p>

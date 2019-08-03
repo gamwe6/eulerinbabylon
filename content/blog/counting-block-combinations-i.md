@@ -1,7 +1,7 @@
 ---
 date: "2006-02-17T18:00:00"
 title: "Counting block combinations I"
-description: ""
+description: "Problem 114"
 ---
 
 <p>A row measuring seven units in length has red blocks with a minimum length of three units placed on it, such that any two red blocks (which are allowed to be different lengths) are separated by at least one grey square. There are exactly seventeen ways of doing this.</p>

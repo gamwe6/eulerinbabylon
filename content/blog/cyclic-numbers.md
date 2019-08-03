@@ -1,7 +1,7 @@
 ---
 date: "2011-11-12T19:00:00"
 title: "Cyclic numbers"
-description: ""
+description: "Problem 358"
 ---
 
 <p>A <b>cyclic number</b> with <var>n</var> digits has a very interesting property:

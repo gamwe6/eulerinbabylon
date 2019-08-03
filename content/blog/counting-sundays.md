@@ -1,7 +1,7 @@
 ---
 date: "2002-06-14T18:00:00"
 title: "Counting Sundays"
-description: ""
+description: "Problem 19"
 ---
 
 <p>You are given the following information, but you may prefer to do some research for yourself.</p>

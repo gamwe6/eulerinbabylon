@@ -1,7 +1,7 @@
 ---
 date: "2005-09-23T18:00:00"
 title: "Special subset sums: testing"
-description: ""
+description: "Problem 105"
 ---
 
 <p>Let S(A) represent the sum of elements in set A of size <i>n</i>. We shall call it a special sum set if for any two non-empty disjoint subsets, B and C, the following properties are true:</p>

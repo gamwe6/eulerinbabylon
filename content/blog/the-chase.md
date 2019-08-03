@@ -1,7 +1,7 @@
 ---
 date: "2009-01-10T01:00:00"
 title: "The Chase"
-description: ""
+description: "Problem 227"
 ---
 
 <p>"<i>The Chase</i>" is a game played with two dice and an even number of players.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2007-10-13T02:00:00"
 title: "Cross-hatched triangles"
-description: ""
+description: "Problem 163"
 ---
 
 <p>Consider an equilateral triangle in which straight lines are drawn from each vertex to the middle of the opposite side, such as in the <i>size 1</i> triangle in the sketch below.</p>

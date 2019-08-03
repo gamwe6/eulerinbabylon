@@ -1,7 +1,7 @@
 ---
 date: "2008-02-22T17:00:00"
 title: "Maximum product of parts"
-description: ""
+description: "Problem 183"
 ---
 
 <p>Let N be a positive integer and let N be split into <var>k</var> equal parts, <var>r</var> = N/<var>k</var>, so that N = <var>r</var> + <var>r</var> + ... + <var>r</var>.

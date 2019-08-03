@@ -1,7 +1,7 @@
 ---
 date: "2002-03-22T18:00:00"
 title: "Large sum"
-description: ""
+description: "Problem 13"
 ---
 
 <p>Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.</p>

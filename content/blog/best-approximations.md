@@ -1,7 +1,7 @@
 ---
 date: "2008-05-03T05:00:00"
 title: "Best Approximations"
-description: ""
+description: "Problem 192"
 ---
 
 <p>Let <var>x</var> be a real number.

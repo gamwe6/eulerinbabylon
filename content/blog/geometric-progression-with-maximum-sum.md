@@ -1,7 +1,7 @@
 ---
 date: "2016-01-09T13:00:00"
 title: "Geometric Progression with Maximum Sum"
-description: ""
+description: "Problem 542"
 ---
 
 <p>Let <var>S</var>(<var>k</var>) be the sum of three or more distinct positive integers having the following properties:</p>

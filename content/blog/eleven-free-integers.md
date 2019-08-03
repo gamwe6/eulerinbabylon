@@ -1,7 +1,7 @@
 ---
 date: "2013-10-26T13:00:00"
 title: "Eleven-free integers"
-description: ""
+description: "Problem 442"
 ---
 
 <p>An integer is called <i>eleven-free</i> if its decimal expansion does not contain any substring representing a power of 11 except 1.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2008-09-06T14:00:00"
 title: "Generalised Hamming Numbers"
-description: ""
+description: "Problem 204"
 ---
 
 <p>A Hamming number is a positive number which has no prime factor larger than 5.

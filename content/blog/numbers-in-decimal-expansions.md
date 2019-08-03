@@ -1,7 +1,7 @@
 ---
 date: "2010-12-25T13:00:00"
 title: "Numbers in decimal expansions"
-description: ""
+description: "Problem 316"
 ---
 
 <p>Let <var>p</var> = <var>p<sub><font size="-2">1</font></sub> p<sub><font size="-2">2</font></sub> p<sub><font size="-2">3</font></sub></var> ... be an infinite sequence of random digits, selected from {0,1,2,3,4,5,6,7,8,9} with equal probability.

@@ -1,7 +1,7 @@
 ---
 date: "2015-10-10T22:00:00"
 title: "10-substrings"
-description: ""
+description: "Problem 529"
 ---
 
 <p>A <i>10-substring</i> of a number is a substring of its digits that sum to 10. For example, the 10-substrings of the number 3523014 are:</p>

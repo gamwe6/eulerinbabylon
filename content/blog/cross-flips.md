@@ -1,7 +1,7 @@
 ---
 date: "2011-04-03T08:00:00"
 title: "Cross flips"
-description: ""
+description: "Problem 331"
 ---
 
 <p><var>N</var>×<var>N</var> disks are placed on a square game board. Each disk has a black side and white side.</p>

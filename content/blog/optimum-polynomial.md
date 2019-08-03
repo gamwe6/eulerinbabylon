@@ -1,7 +1,7 @@
 ---
 date: "2005-07-29T18:00:00"
 title: "Optimum polynomial"
-description: ""
+description: "Problem 101"
 ---
 
 <p>If we are presented with the first <var>k</var> terms of a sequence it is impossible to say with certainty the value of the next term, as there are infinitely many polynomial functions that can model the sequence.</p>

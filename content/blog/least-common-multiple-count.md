@@ -1,7 +1,7 @@
 ---
 date: "2012-04-08T11:00:00"
 title: "Least common multiple count"
-description: ""
+description: "Problem 379"
 ---
 
 <p>

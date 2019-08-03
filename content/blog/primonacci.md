@@ -1,7 +1,7 @@
 ---
 date: "2010-10-03T01:00:00"
 title: "Primonacci"
-description: ""
+description: "Problem 304"
 ---
 
 <p>

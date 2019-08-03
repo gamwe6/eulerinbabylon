@@ -1,7 +1,7 @@
 ---
 date: "2002-11-22T18:00:00"
 title: "Coin sums"
-description: ""
+description: "Problem 31"
 ---
 
 <p>In England the currency is made up of pound, £, and pence, p, and there are eight coins in general circulation:</p>

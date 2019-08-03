@@ -1,7 +1,7 @@
 ---
 date: "2015-05-10T07:00:00"
 title: "Dissonant Numbers"
-description: ""
+description: "Problem 515"
 ---
 
 <p>Let <var>d</var>(<var>p</var>,<var>n</var>,0) be the multiplicative inverse of <var>n</var> modulo prime <var>p</var>, defined as <var>n</var> × <var>d</var>(<var>p</var>,<var>n</var>,0) = 1 mod <var>p</var>.

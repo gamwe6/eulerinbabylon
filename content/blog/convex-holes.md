@@ -1,7 +1,7 @@
 ---
 date: "2009-06-27T13:00:00"
 title: "Convex Holes"
-description: ""
+description: "Problem 252"
 ---
 
 <p>

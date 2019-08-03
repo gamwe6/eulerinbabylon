@@ -1,7 +1,7 @@
 ---
 date: "2014-03-30T05:00:00"
 title: "Polar polygons"
-description: ""
+description: "Problem 465"
 ---
 
 <p>The <i>kernel</i> of a polygon is defined by the set of points from which the entire polygon's boundary is visible. We define a <i>polar polygon</i> as a polygon for which the origin is <u>strictly</u> contained inside its kernel.</p>

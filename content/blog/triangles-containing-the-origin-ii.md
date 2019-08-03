@@ -1,7 +1,7 @@
 ---
 date: "2014-01-26T01:00:00"
 title: "Triangles containing the origin II"
-description: ""
+description: "Problem 456"
 ---
 
 <p>Define:<var>x</var><sub><var>n</var></sub> = (1248<sup><var>n</var></sup> mod 32323) - 16161<var>y</var><sub><var>n</var></sub> = (8421<sup><var>n</var></sup> mod 30103) - 15051

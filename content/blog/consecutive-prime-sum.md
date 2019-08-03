@@ -1,7 +1,7 @@
 ---
 date: "2003-08-15T18:00:00"
 title: "Consecutive prime sum"
-description: ""
+description: "Problem 50"
 ---
 
 <p>The prime 41, can be written as the sum of six consecutive primes:</p>

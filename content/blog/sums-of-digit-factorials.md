@@ -1,7 +1,7 @@
 ---
 date: "2009-09-04T17:00:00"
 title: "Sums of Digit Factorials"
-description: ""
+description: "Problem 254"
 ---
 
 <p>Define f(<var>n</var>) as the sum of the factorials of the digits of <var>n</var>. For example, f(342) = 3! + 4! + 2! = 32.</p>

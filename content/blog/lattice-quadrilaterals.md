@@ -1,7 +1,7 @@
 ---
 date: "2014-01-04T16:00:00"
 title: "Lattice Quadrilaterals"
-description: ""
+description: "Problem 453"
 ---
 
 <p>A <b>simple quadrilateral</b> is a polygon that has four distinct vertices, has no straight angles and does not self-intersect.</p>

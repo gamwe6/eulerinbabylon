@@ -1,7 +1,7 @@
 ---
 date: "2007-04-13T22:00:00"
 title: "Searching a triangular array for a sub-triangle having minimum-sum"
-description: ""
+description: "Problem 150"
 ---
 
 <p>In a triangular array of positive and negative integers, we wish to find a sub-triangle such that the sum of the numbers it contains is the smallest possible.</p>

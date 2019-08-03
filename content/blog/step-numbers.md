@@ -1,7 +1,7 @@
 ---
 date: "2008-01-19T01:00:00"
 title: "Step Numbers"
-description: ""
+description: "Problem 178"
 ---
 
 Consider the number 45656. 

@@ -1,7 +1,7 @@
 ---
 date: "2012-10-07T05:00:00"
 title: "Triangle on parabola"
-description: ""
+description: "Problem 397"
 ---
 
 <p>

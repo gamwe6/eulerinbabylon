@@ -1,7 +1,7 @@
 ---
 date: "2007-03-31T06:00:00"
 title: "Rectangles in cross-hatched grids"
-description: ""
+description: "Problem 147"
 ---
 
 <p>In a 3x2 cross-hatched grid, a total of 37 different rectangles could be situated within that grid as indicated in the sketch.</p>

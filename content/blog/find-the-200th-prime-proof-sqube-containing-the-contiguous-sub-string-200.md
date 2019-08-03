@@ -1,7 +1,7 @@
 ---
 date: "2008-06-28T10:00:00"
 title: "Find the 200th prime-proof sqube containing the contiguous sub-string \"200\""
-description: ""
+description: "Problem 200"
 ---
 
 <p>We shall define a sqube to be a number of the form, <var>p</var><sup>2</sup><var>q</var><sup>3</sup>, where <var>p</var> and <var>q</var> are distinct primes.

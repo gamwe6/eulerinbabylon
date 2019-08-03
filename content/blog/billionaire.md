@@ -1,7 +1,7 @@
 ---
 date: "2009-12-04T13:00:00"
 title: "Billionaire"
-description: ""
+description: "Problem 267"
 ---
 
 <p>You are given a unique investment opportunity.</p>

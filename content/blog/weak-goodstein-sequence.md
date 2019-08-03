@@ -1,7 +1,7 @@
 ---
 date: "2012-09-30T02:00:00"
 title: "Weak Goodstein sequence"
-description: ""
+description: "Problem 396"
 ---
 
 <p>

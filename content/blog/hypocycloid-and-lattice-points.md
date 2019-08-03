@@ -1,7 +1,7 @@
 ---
 date: "2013-12-15T07:00:00"
 title: "Hypocycloid and Lattice points"
-description: ""
+description: "Problem 450"
 ---
 
 <p>

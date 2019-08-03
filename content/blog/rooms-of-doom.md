@@ -1,7 +1,7 @@
 ---
 date: "2011-03-05T19:00:00"
 title: "Rooms of Doom"
-description: ""
+description: "Problem 327"
 ---
 
 <p>A series of three rooms are connected to each other by automatic doors.</p>

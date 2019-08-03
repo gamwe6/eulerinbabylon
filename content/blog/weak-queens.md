@@ -1,7 +1,7 @@
 ---
 date: "2015-11-14T13:00:00"
 title: "Weak Queens"
-description: ""
+description: "Problem 534"
 ---
 
 <p>The classical <b>eight queens puzzle</b> is the well known problem of placing eight chess queens on a 8×8 chessboard so that no two queens threaten each other. Allowing configurations to reappear in rotated or mirrored form, a total of 92 distinct configurations can be found for eight queens. The general case asks for the number of distinct ways of placing <var>n</var> queens on a <var>n</var>×<var>n</var> board, e.g. you can find 2 distinct configurations for <var>n</var>=4.</p>

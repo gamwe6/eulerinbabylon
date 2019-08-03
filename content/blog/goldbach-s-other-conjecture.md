@@ -1,7 +1,7 @@
 ---
 date: "2003-06-20T18:00:00"
 title: "Goldbach's other conjecture"
-description: ""
+description: "Problem 46"
 ---
 
 <p>It was proposed by Christian Goldbach that every odd composite number can be written as the sum of a prime and twice a square.</p>

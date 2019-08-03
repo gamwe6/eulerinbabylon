@@ -1,7 +1,7 @@
 ---
 date: "2008-05-17T10:00:00"
 title: "Coloured Configurations"
-description: ""
+description: "Problem 194"
 ---
 
 <p>Consider graphs built with the units A: <img alt="" class="dark_img" src="/images/p194_GraphA.png" style="vertical-align:middle;"/>

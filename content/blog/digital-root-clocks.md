@@ -1,7 +1,7 @@
 ---
 date: "2010-12-19T10:00:00"
 title: "Digital root clocks"
-description: ""
+description: "Problem 315"
 ---
 
 <p></p><div align="center"><img alt="p315_clocks.gif" src="/images/p315_clocks.gif"/></div>

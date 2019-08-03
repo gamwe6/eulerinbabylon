@@ -1,7 +1,7 @@
 ---
 date: "2014-11-23T07:00:00"
 title: "Jumping frog"
-description: ""
+description: "Problem 490"
 ---
 
 <p>There are <var>n</var> stones in a pond, numbered 1 to <var>n</var>. Consecutive stones are spaced one unit apart.</p>

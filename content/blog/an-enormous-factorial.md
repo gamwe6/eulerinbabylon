@@ -1,7 +1,7 @@
 ---
 date: "2010-04-17T13:00:00"
 title: "An enormous factorial"
-description: ""
+description: "Problem 288"
 ---
 
 <p>

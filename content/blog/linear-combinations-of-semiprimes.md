@@ -1,7 +1,7 @@
 ---
 date: "2010-02-13T05:00:00"
 title: "Linear Combinations of Semiprimes"
-description: ""
+description: "Problem 278"
 ---
 
 <p>

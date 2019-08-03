@@ -1,7 +1,7 @@
 ---
 date: "2006-06-16T18:00:00"
 title: "Prime square remainders"
-description: ""
+description: "Problem 123"
 ---
 
 <p>Let <i>p</i><sub>n</sub> be the <i>n</i>th prime: 2, 3, 5, 7, 11, ..., and let <i>r</i> be the remainder when (<i>p</i><sub>n</sub>−1)<sup><i>n</i></sup> + (<i>p</i><sub>n</sub>+1)<sup><i>n</i></sup> is divided by <i>p</i><sub>n</sub><sup>2</sup>.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2011-01-23T01:00:00"
 title: "Swapping Counters"
-description: ""
+description: "Problem 321"
 ---
 
 <p>A horizontal row comprising of 2<var>n</var> + 1 squares has <var>n</var> red counters placed at one end and <var>n</var> blue counters at the other end, being separated by a single empty square in the centre. For example, when <var>n</var> = 3.</p>

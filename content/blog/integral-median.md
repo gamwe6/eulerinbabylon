@@ -1,7 +1,7 @@
 ---
 date: "2015-04-26T01:00:00"
 title: "Integral median"
-description: ""
+description: "Problem 513"
 ---
 
 <p>

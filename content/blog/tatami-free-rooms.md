@@ -1,7 +1,7 @@
 ---
 date: "2009-09-19T01:00:00"
 title: "Tatami-Free Rooms"
-description: ""
+description: "Problem 256"
 ---
 
 <span style="font-size:10pt;">

@@ -1,7 +1,7 @@
 ---
 date: "2011-01-15T22:00:00"
 title: "Factorials divisible by a huge integer"
-description: ""
+description: "Problem 320"
 ---
 
 <p>

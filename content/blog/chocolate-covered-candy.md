@@ -1,7 +1,7 @@
 ---
 date: "2013-12-08T04:00:00"
 title: "Chocolate covered candy"
-description: ""
+description: "Problem 449"
 ---
 
 <p>Phil the confectioner is making a new batch of chocolate covered candy. Each candy centre is shaped like an ellipsoid of revolution defined by the equation: b<sup>2</sup><var>x</var><sup>2</sup> + b<sup>2</sup><var>y</var><sup>2</sup> + a<sup>2</sup><var>z</var><sup>2</sup> = a<sup>2</sup>b<sup>2</sup>.

@@ -1,7 +1,7 @@
 ---
 date: "2010-10-30T13:00:00"
 title: "An amazing Prime-generating Automaton"
-description: ""
+description: "Problem 308"
 ---
 
 <p>A program written in the programming language Fractran consists of a list of fractions.</p>

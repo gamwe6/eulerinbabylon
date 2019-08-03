@@ -1,7 +1,7 @@
 ---
 date: "2004-12-17T18:00:00"
 title: "Counting rectangles"
-description: ""
+description: "Problem 85"
 ---
 
 <p>By counting carefully it can be seen that a rectangular grid measuring 3 by 2 contains eighteen rectangles:</p>

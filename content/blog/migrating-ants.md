@@ -1,7 +1,7 @@
 ---
 date: "2012-09-08T17:00:00"
 title: "Migrating ants"
-description: ""
+description: "Problem 393"
 ---
 
 <p>

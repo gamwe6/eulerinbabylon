@@ -1,7 +1,7 @@
 ---
 date: "2009-05-15T14:00:00"
 title: "Coresilience"
-description: ""
+description: "Problem 245"
 ---
 
 <p>We shall call a fraction that cannot be cancelled down a resilient fraction. Furthermore we shall define the resilience of a denominator, <var>R</var>(<var>d</var>), to be the ratio of its proper fractions that are resilient; for example, <var>R</var>(12) = <sup>4</sup>⁄<sub>11</sub>.</p>

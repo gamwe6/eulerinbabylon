@@ -1,7 +1,7 @@
 ---
 date: "2013-01-12T19:00:00"
 title: "Circle and tangent line"
-description: ""
+description: "Problem 410"
 ---
 
 <p>Let C be the circle with radius <var>r</var>, <var>x</var><sup>2</sup> + <var>y</var><sup>2</sup> = <var>r</var><sup>2</sup>. We choose two points P(<var>a</var>, <var>b</var>) and Q(-<var>a</var>, <var>c</var>) so that the line passing through P and Q is tangent to C.</p>

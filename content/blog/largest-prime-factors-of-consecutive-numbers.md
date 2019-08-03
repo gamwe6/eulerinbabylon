@@ -1,7 +1,7 @@
 ---
 date: "2015-09-19T13:00:00"
 title: "Largest prime factors of consecutive numbers"
-description: ""
+description: "Problem 526"
 ---
 
 <p>Let <var>f</var>(<var>n</var>) be the largest prime factor of <var>n</var>.</p>

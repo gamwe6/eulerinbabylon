@@ -1,7 +1,7 @@
 ---
 date: "2016-01-30T22:00:00"
 title: "Faulhaber's Formulas"
-description: ""
+description: "Problem 545"
 ---
 
 <p>The sum of the <var>k</var><sup>th</sup> powers of the first <var>n</var> positive integers can be expressed as a polynomial of degree <var>k</var>+1 with rational coefficients, the <b>Faulhaber's Formulas</b>:

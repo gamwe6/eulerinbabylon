@@ -1,7 +1,7 @@
 ---
 date: "2013-03-24T01:00:00"
 title: "2x2 positive integer matrix"
-description: ""
+description: "Problem 420"
 ---
 
 <p>A <i>positive integer matrix</i> is a matrix whose elements are all positive integers.

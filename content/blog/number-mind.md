@@ -1,7 +1,7 @@
 ---
 date: "2008-03-08T01:00:00"
 title: "Number Mind"
-description: ""
+description: "Problem 185"
 ---
 
 <p>The game Number Mind is a variant of the well known game Master Mind.</p>

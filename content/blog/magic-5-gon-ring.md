@@ -1,7 +1,7 @@
 ---
 date: "2004-04-23T18:00:00"
 title: "Magic 5-gon ring"
-description: ""
+description: "Problem 68"
 ---
 
 <p>Consider the following "magic" 3-gon ring, filled with the numbers 1 to 6, and each line adding to nine.</p>

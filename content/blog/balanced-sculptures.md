@@ -1,7 +1,7 @@
 ---
 date: "2010-01-22T17:00:00"
 title: "Balanced Sculptures"
-description: ""
+description: "Problem 275"
 ---
 
 <p>Let us define a <i>balanced sculpture</i> of order <var>n</var> as follows:

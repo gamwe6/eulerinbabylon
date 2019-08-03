@@ -1,7 +1,7 @@
 ---
 date: "2010-03-05T13:00:00"
 title: "Pizza Toppings"
-description: ""
+description: "Problem 281"
 ---
 
 <p>You are given a pizza (perfect circle) that has been cut into <var>m</var>·<var>n</var> equal pieces and you want to have exactly one topping on each slice.</p>

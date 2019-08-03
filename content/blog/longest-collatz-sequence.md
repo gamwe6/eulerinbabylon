@@ -1,7 +1,7 @@
 ---
 date: "2002-04-05T18:00:00"
 title: "Longest Collatz sequence"
-description: ""
+description: "Problem 14"
 ---
 
 <p>The following iterative sequence is defined for the set of positive integers:</p>

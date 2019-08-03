@@ -1,7 +1,7 @@
 ---
 date: "2004-06-04T18:00:00"
 title: "Ordered fractions"
-description: ""
+description: "Problem 71"
 ---
 
 <p>Consider the fraction, <i>n/d</i>, where <i>n</i> and <i>d</i> are positive integers. If <i>n</i>&lt;<i>d</i> and HCF(<i>n,d</i>)=1, it is called a reduced proper fraction.</p>

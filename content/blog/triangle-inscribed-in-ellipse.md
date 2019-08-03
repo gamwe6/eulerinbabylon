@@ -1,7 +1,7 @@
 ---
 date: "2014-05-10T22:00:00"
 title: "Triangle inscribed in ellipse"
-description: ""
+description: "Problem 471"
 ---
 
 <p>The triangle ΔABC is inscribed in an ellipse with equation $\frac {x^2} {a^2} + \frac {y^2} {b^2} = 1$, 0 &lt; 2<var>b</var> &lt; <var>a</var>, <var>a</var> and <var>b</var> integers.</p>

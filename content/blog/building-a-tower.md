@@ -1,7 +1,7 @@
 ---
 date: "2011-02-13T10:00:00"
 title: "Building a tower"
-description: ""
+description: "Problem 324"
 ---
 
 <p>Let <var>f</var>(<var>n</var>) represent the number of ways one can fill a 3×3×<var>n</var> tower with blocks of 2×1×1. You're allowed to rotate the blocks in any way you like; however, rotations, reflections etc of the tower itself are counted as distinct.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2009-10-03T09:00:00"
 title: "A lagged Fibonacci sequence"
-description: ""
+description: "Problem 258"
 ---
 
 <p>A sequence is defined as:</p>

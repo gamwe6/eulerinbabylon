@@ -1,7 +1,7 @@
 ---
 date: "2013-03-09T19:00:00"
 title: "Factorisation triples"
-description: ""
+description: "Problem 418"
 ---
 
 <p>

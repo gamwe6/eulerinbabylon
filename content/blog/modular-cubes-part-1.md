@@ -1,7 +1,7 @@
 ---
 date: "2010-01-02T05:00:00"
 title: "Modular Cubes, part 1"
-description: ""
+description: "Problem 271"
 ---
 
 <p>

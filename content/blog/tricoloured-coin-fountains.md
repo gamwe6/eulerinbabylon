@@ -1,7 +1,7 @@
 ---
 date: "2015-06-06T19:00:00"
 title: "Tricoloured Coin Fountains"
-description: ""
+description: "Problem 519"
 ---
 
 <p>An arrangement of coins in one or more rows with the bottom row being a block without gaps and every coin in a higher row touching exactly two coins in the row below is called a <b>fountain</b> of coins. Let <var>f</var>(<var>n</var>) be the number of possible fountains with <var>n</var> coins. For 4 coins there are three possible arrangements:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2004-07-30T18:00:00"
 title: "Singular integer right triangles"
-description: ""
+description: "Problem 75"
 ---
 
 <p>It turns out that 12 cm is the smallest length of wire that can be bent to form an integer sided right angle triangle in exactly one way, but there are many more examples.</p>

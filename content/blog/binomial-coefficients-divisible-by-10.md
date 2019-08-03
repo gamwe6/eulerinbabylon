@@ -1,7 +1,7 @@
 ---
 date: "2011-01-30T04:00:00"
 title: "Binomial coefficients divisible by 10"
-description: ""
+description: "Problem 322"
 ---
 
 <p>

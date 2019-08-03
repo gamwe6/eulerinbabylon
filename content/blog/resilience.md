@@ -1,7 +1,7 @@
 ---
 date: "2009-05-02T10:00:00"
 title: "Resilience"
-description: ""
+description: "Problem 243"
 ---
 
 <p> </p>

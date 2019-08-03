@@ -1,7 +1,7 @@
 ---
 date: "2011-09-10T19:00:00"
 title: "Constraining the least greatest and the greatest least"
-description: ""
+description: "Problem 350"
 ---
 
 <p>A <i>list of size n</i> is a sequence of <var>n</var> natural numbers. Examples are (2,4,6), (2,6,4), (10,6,15,6), and (11).

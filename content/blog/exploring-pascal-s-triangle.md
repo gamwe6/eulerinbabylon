@@ -1,7 +1,7 @@
 ---
 date: "2007-04-07T02:00:00"
 title: "Exploring Pascal's triangle"
-description: ""
+description: "Problem 148"
 ---
 
 <p>We can easily verify that none of the entries in the first seven rows of Pascal's triangle are divisible by 7:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-02-18T13:00:00"
 title: "Pencils of rays"
-description: ""
+description: "Problem 372"
 ---
 
 <p>

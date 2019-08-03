@@ -1,7 +1,7 @@
 ---
 date: "2011-06-25T19:00:00"
 title: "Silver dollar game"
-description: ""
+description: "Problem 344"
 ---
 
 <p>One variant of N.G. de Bruijn's <b>silver dollar</b> game can be described as follows:</p>

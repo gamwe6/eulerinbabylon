@@ -1,7 +1,7 @@
 ---
 date: "2011-05-07T22:00:00"
 title: "Totient Stairstep Sequences"
-description: ""
+description: "Problem 337"
 ---
 
 <p>Let {a<sub>1</sub>, a<sub>2</sub>,..., a<sub><var>n</var></sub>} be an integer sequence of length <var>n</var> such that:</p>

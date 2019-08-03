@@ -1,7 +1,7 @@
 ---
 date: "2013-02-17T10:00:00"
 title: "Titanic sets"
-description: ""
+description: "Problem 415"
 ---
 
 <p>A set of lattice points S is called a <i>titanic set</i> if there exists a line passing through exactly two points in S.</p>

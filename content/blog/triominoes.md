@@ -1,7 +1,7 @@
 ---
 date: "2007-09-21T18:00:00"
 title: "Triominoes"
-description: ""
+description: "Problem 161"
 ---
 
 <p>A triomino is a shape consisting of three squares joined via the edges.

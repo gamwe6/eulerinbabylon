@@ -1,7 +1,7 @@
 ---
 date: "2011-03-20T01:00:00"
 title: "Prime Frog"
-description: ""
+description: "Problem 329"
 ---
 
 <p>Susan has a prime frog.

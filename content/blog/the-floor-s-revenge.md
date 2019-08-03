@@ -1,7 +1,7 @@
 ---
 date: "2016-02-07T01:00:00"
 title: "The Floor's Revenge"
-description: ""
+description: "Problem 546"
 ---
 
 <p>Define <var>f</var><sub><var>k</var></sub>(<var>n</var>) = $\sum_{i=0}^{n}$ <var>f</var><sub><var>k</var></sub>($\lfloor\frac{i}{k}\rfloor$) where <var>f</var><sub><var>k</var></sub>(0) = 1 and $\lfloor x \rfloor$ denotes the floor function.</p>

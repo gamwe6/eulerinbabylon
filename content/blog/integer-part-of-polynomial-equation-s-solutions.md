@@ -1,7 +1,7 @@
 ---
 date: "2013-09-29T01:00:00"
 title: "Integer part of polynomial equation's solutions"
-description: ""
+description: "Problem 438"
 ---
 
 <p>

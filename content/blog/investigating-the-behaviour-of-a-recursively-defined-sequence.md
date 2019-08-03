@@ -1,7 +1,7 @@
 ---
 date: "2008-06-06T22:00:00"
 title: "Investigating the behaviour of a recursively defined sequence"
-description: ""
+description: "Problem 197"
 ---
 
 <p>Given is the function <var>f</var>(<var>x</var>) = ⌊2<sup>30.403243784-<var>x</var><sup>2</sup></sup>⌋ × 10<sup>-9</sup> ( ⌊ ⌋ is the floor-function),

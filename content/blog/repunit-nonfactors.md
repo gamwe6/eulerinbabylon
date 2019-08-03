@@ -1,7 +1,7 @@
 ---
 date: "2006-12-01T18:00:00"
 title: "Repunit nonfactors"
-description: ""
+description: "Problem 133"
 ---
 
 <p>A number consisting entirely of ones is called a repunit. We shall define R(<var>k</var>) to be a repunit of length <var>k</var>; for example, R(6) = 111111.</p>

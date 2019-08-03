@@ -1,7 +1,7 @@
 ---
 date: "2013-04-14T10:00:00"
 title: "Consecutive die throws"
-description: ""
+description: "Problem 423"
 ---
 
 <p>Let <var>n</var> be a positive integer.

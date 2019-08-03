@@ -1,7 +1,7 @@
 ---
 date: "2008-10-31T13:00:00"
 title: "Crack-free Walls"
-description: ""
+description: "Problem 215"
 ---
 
 <p>Consider the problem of building a wall out of 2×1 and 3×1 bricks (horizontal×vertical dimensions) such that, for extra strength, the gaps between horizontally-adjacent bricks never line up in consecutive layers, i.e. never form a "running crack".</p>

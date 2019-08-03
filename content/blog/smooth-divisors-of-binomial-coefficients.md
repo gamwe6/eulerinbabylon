@@ -1,7 +1,7 @@
 ---
 date: "2014-04-19T13:00:00"
 title: "Smooth divisors of binomial coefficients"
-description: ""
+description: "Problem 468"
 ---
 
 <p>An integer is called <strong><var>B</var>-smooth</strong> if none of its prime factors is greater than <var>B</var>.</p>

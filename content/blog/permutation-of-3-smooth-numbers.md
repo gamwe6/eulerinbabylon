@@ -1,7 +1,7 @@
 ---
 date: "2014-03-08T19:00:00"
 title: "Permutation of 3-smooth numbers"
-description: ""
+description: "Problem 462"
 ---
 
 <p>

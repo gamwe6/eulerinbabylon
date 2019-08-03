@@ -1,7 +1,7 @@
 ---
 date: "2015-01-25T10:00:00"
 title: "St. Petersburg Lottery"
-description: ""
+description: "Problem 499"
 ---
 
 <p>A gambler decides to participate in a special lottery. In this lottery the gambler plays a series of one or more games.

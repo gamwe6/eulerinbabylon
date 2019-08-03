@@ -1,7 +1,7 @@
 ---
 date: "2015-03-08T04:00:00"
 title: "Clock sequence"
-description: ""
+description: "Problem 506"
 ---
 
 <p>Consider the infinite repeating sequence of digits:

@@ -1,7 +1,7 @@
 ---
 date: "2004-11-05T18:00:00"
 title: "Path sum: three ways"
-description: ""
+description: "Problem 82"
 ---
 
 <p class="small_notice">NOTE: This problem is a more challenging version of <a href="problem%3d81.html">Problem 81</a>.</p>

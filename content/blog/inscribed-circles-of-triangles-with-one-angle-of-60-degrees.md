@@ -1,7 +1,7 @@
 ---
 date: "2008-05-23T14:00:00"
 title: "Inscribed circles of triangles with one angle of 60 degrees"
-description: ""
+description: "Problem 195"
 ---
 
 <p>Let's call an integer sided triangle with exactly one angle of 60 degrees a 60-degree triangle.

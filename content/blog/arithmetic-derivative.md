@@ -1,7 +1,7 @@
 ---
 date: "2014-10-11T13:00:00"
 title: "Arithmetic Derivative"
-description: ""
+description: "Problem 484"
 ---
 
 <p>The <strong>arithmetic derivative</strong> is defined by</p>

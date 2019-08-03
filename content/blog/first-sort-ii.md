@@ -1,7 +1,7 @@
 ---
 date: "2015-09-06T07:00:00"
 title: "First Sort II"
-description: ""
+description: "Problem 524"
 ---
 
 <p>Consider the following algorithm for sorting a list:</p>

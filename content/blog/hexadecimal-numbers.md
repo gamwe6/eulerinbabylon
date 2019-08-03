@@ -1,7 +1,7 @@
 ---
 date: "2007-10-05T22:00:00"
 title: "Hexadecimal numbers"
-description: ""
+description: "Problem 162"
 ---
 
 <p>In  the hexadecimal number system numbers are represented using 16 different digits:</p>

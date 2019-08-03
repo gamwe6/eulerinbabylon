@@ -1,7 +1,7 @@
 ---
 date: "2011-02-26T16:00:00"
 title: "Modulo Summations"
-description: ""
+description: "Problem 326"
 ---
 
 <p>

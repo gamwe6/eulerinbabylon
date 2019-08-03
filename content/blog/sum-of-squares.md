@@ -1,7 +1,7 @@
 ---
 date: "2010-01-09T13:00:00"
 title: "Sum of Squares"
-description: ""
+description: "Problem 273"
 ---
 
 <p>Consider equations of the form: <var>a</var><sup>2</sup> + <var>b</var><sup>2</sup> = <var>N</var>, 0 ≤ <var>a</var> ≤ <var>b</var>, <var>a</var>, <var>b</var> and <var>N</var> integer.</p>

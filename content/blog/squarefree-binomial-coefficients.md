@@ -1,7 +1,7 @@
 ---
 date: "2008-09-06T14:00:00"
 title: "Squarefree Binomial Coefficients"
-description: ""
+description: "Problem 203"
 ---
 
 <p>The binomial coefficients <sup>n</sup>C<sub>k</sub> can be arranged in triangular form, Pascal's triangle, like this:</p>

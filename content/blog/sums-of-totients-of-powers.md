@@ -1,7 +1,7 @@
 ---
 date: "2015-04-18T22:00:00"
 title: "Sums of totients of powers"
-description: ""
+description: "Problem 512"
 ---
 
 <p>Let $\varphi(n)$ be Euler's totient function.</p><p>

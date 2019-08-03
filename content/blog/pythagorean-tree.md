@@ -1,7 +1,7 @@
 ---
 date: "2012-09-22T23:00:00"
 title: "Pythagorean tree"
-description: ""
+description: "Problem 395"
 ---
 
 <p>

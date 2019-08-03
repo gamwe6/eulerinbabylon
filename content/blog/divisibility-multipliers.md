@@ -1,7 +1,7 @@
 ---
 date: "2010-01-15T13:00:00"
 title: "Divisibility Multipliers"
-description: ""
+description: "Problem 274"
 ---
 
 <p>For each integer <var>p</var> &gt; 1 coprime to 10 there is a positive <em>divisibility multiplier</em> <var>m</var> &lt; <var>p</var> which preserves divisibility by <var>p</var> for the following function on any positive integer, <var>n</var>:</p>

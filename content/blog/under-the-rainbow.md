@@ -1,7 +1,7 @@
 ---
 date: "2014-12-13T16:00:00"
 title: "Under The Rainbow"
-description: ""
+description: "Problem 493"
 ---
 
 <p>70 coloured balls are placed in an urn, 10 for each of the seven rainbow colours.</p>

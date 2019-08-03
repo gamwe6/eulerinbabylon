@@ -1,7 +1,7 @@
 ---
 date: "2010-09-04T13:00:00"
 title: "Protein folding"
-description: ""
+description: "Problem 300"
 ---
 
 <p>In a very simplified form, we can consider proteins as strings consisting of hydrophobic (H) and polar (P) elements, e.g. HHPPHHHPHHPH. 

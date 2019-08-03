@@ -1,7 +1,7 @@
 ---
 date: "2015-03-28T13:00:00"
 title: "Divisor Nim"
-description: ""
+description: "Problem 509"
 ---
 
 <p>

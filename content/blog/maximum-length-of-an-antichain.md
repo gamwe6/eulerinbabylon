@@ -1,7 +1,7 @@
 ---
 date: "2012-05-27T08:00:00"
 title: "Maximum length of an antichain"
-description: ""
+description: "Problem 386"
 ---
 
 <p>Let <var>n</var> be an integer and <var>S</var>(<var>n</var>) be the set of factors of <var>n</var>.</p>

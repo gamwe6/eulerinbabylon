@@ -1,7 +1,7 @@
 ---
 date: "2004-07-16T18:00:00"
 title: "Digit factorial chains"
-description: ""
+description: "Problem 74"
 ---
 
 <p>The number 145 is well known for the property that the sum of the factorial of its digits is equal to 145:</p>

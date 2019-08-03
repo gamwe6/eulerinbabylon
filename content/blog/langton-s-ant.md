@@ -1,7 +1,7 @@
 ---
 date: "2011-09-03T16:00:00"
 title: "Langton's ant"
-description: ""
+description: "Problem 349"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2004-10-22T18:00:00"
 title: "Path sum: two ways"
-description: ""
+description: "Problem 81"
 ---
 
 <p>In the 5 by 5 matrix below, the minimal path sum from the top left to the bottom right, by <b>only moving to the right and down</b>, is indicated in bold red and is equal to 2427.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2008-09-06T14:00:00"
 title: "Integer partition equations"
-description: ""
+description: "Problem 207"
 ---
 
 <p>For some positive integers <var>k</var>, there exists an integer partition of the form   4<sup>t</sup> = 2<sup>t</sup> + <var>k</var>,

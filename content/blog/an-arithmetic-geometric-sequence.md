@@ -1,7 +1,7 @@
 ---
 date: "2009-03-07T05:00:00"
 title: "An Arithmetic Geometric sequence"
-description: ""
+description: "Problem 235"
 ---
 
 <p>

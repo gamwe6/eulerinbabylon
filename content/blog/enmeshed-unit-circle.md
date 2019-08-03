@@ -1,7 +1,7 @@
 ---
 date: "2012-09-01T14:00:00"
 title: "Enmeshed unit circle"
-description: ""
+description: "Problem 392"
 ---
 
 <p>

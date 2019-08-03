@@ -1,7 +1,7 @@
 ---
 date: "2009-01-17T05:00:00"
 title: "Minkowski Sums"
-description: ""
+description: "Problem 228"
 ---
 
 <p>Let <var>S</var><sub>n</sub> be the regular <var>n</var>-sided polygon – or <i>shape</i> – whose vertices 

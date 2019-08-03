@@ -1,7 +1,7 @@
 ---
 date: "2007-12-08T05:00:00"
 title: "Finding numbers for which the sum of the squares of the digits is a square"
-description: ""
+description: "Problem 171"
 ---
 
 <p>For a positive integer <var>n</var>, let f(<var>n</var>) be the sum of the squares of the digits (in base 10) of <var>n</var>, e.g.</p>

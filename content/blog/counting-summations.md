@@ -1,7 +1,7 @@
 ---
 date: "2004-08-13T18:00:00"
 title: "Counting summations"
-description: ""
+description: "Problem 76"
 ---
 
 <p>It is possible to write five as a sum in exactly six different ways:</p>

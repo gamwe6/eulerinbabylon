@@ -1,7 +1,7 @@
 ---
 date: "2008-07-05T14:00:00"
 title: "Laserbeam"
-description: ""
+description: "Problem 202"
 ---
 
 <p>Three mirrors are arranged in the shape of an equilateral triangle, with their reflective surfaces pointing inwards. There is an infinitesimal gap at each vertex of the triangle through which a laser beam may pass.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2015-02-14T19:00:00"
 title: "Compromise or persist"
-description: ""
+description: "Problem 503"
 ---
 
 <p>Alice is playing a game with <var>n</var> cards numbered 1 to <var>n</var>.</p>

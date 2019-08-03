@@ -1,7 +1,7 @@
 ---
 date: "2009-04-03T17:00:00"
 title: "Twenty-two Foolish Primes"
-description: ""
+description: "Problem 239"
 ---
 
 <p>A set of disks numbered 1 through 100 are placed in a line in random order.</p>

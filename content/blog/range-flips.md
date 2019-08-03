@@ -1,7 +1,7 @@
 ---
 date: "2013-06-02T07:00:00"
 title: "Range flips"
-description: ""
+description: "Problem 430"
 ---
 
 <p><var>N</var> disks are placed in a row, indexed 1 to <var>N</var> from left to right.

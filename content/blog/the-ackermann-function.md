@@ -1,7 +1,7 @@
 ---
 date: "2010-03-12T17:00:00"
 title: "The Ackermann function"
-description: ""
+description: "Problem 282"
 ---
 
 $\def\htmltext#1{\style{font-family:inherit;}{\text{#1}}}$

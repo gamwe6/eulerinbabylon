@@ -1,7 +1,7 @@
 ---
 date: "2002-02-08T18:00:00"
 title: "Summation of primes"
-description: ""
+description: "Problem 10"
 ---
 
 <p>The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.</p>

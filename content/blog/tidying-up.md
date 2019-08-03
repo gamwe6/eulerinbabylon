@@ -1,7 +1,7 @@
 ---
 date: "2009-08-28T13:00:00"
 title: "Tidying up"
-description: ""
+description: "Problem 253"
 ---
 
 <p>A small child has a “number caterpillar” consisting of forty jigsaw pieces, each with one number on it, which, when connected together in a line, reveal the numbers 1 to 40 in order.</p>

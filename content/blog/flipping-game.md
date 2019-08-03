@@ -1,7 +1,7 @@
 ---
 date: "2014-02-16T10:00:00"
 title: "Flipping game"
-description: ""
+description: "Problem 459"
 ---
 
 <p>The flipping game is a two player game played on a N by N square board.

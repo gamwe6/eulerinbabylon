@@ -1,7 +1,7 @@
 ---
 date: "2014-03-15T22:00:00"
 title: "A weird recurrence relation"
-description: ""
+description: "Problem 463"
 ---
 
 <p>

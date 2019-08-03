@@ -1,7 +1,7 @@
 ---
 date: "2009-05-22T17:00:00"
 title: "Tangents to an ellipse"
-description: ""
+description: "Problem 246"
 ---
 
 <p>

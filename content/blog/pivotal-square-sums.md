@@ -1,7 +1,7 @@
 ---
 date: "2009-10-23T17:00:00"
 title: "Pivotal Square Sums"
-description: ""
+description: "Problem 261"
 ---
 
 <p>Let us call a positive integer <var>k</var> a <var>square-pivot</var>, if there is a pair of integers <var>m</var> &gt; 0 and <var>n</var> ≥ <var>k</var>, such that the sum of the (<var>m</var>+1) consecutive squares up to <var>k</var> equals the sum of the <var>m</var> consecutive squares from (<var>n</var>+1) on:</p>

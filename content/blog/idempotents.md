@@ -1,7 +1,7 @@
 ---
 date: "2012-12-23T10:00:00"
 title: "Idempotents"
-description: ""
+description: "Problem 407"
 ---
 
 <p>

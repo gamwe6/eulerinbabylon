@@ -1,7 +1,7 @@
 ---
 date: "2008-04-04T14:00:00"
 title: "The hyperexponentiation of a number"
-description: ""
+description: "Problem 188"
 ---
 
 <p>The <span style="font-style:italic;">hyperexponentiation</span> or <span style="font-style:italic;">tetration</span> of a number a by a positive integer b, denoted by a↑↑b or <sup>b</sup>a, is recursively defined by:

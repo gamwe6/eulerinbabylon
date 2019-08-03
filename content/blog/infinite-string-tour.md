@@ -1,7 +1,7 @@
 ---
 date: "2009-03-29T15:00:00"
 title: "Infinite string tour"
-description: ""
+description: "Problem 238"
 ---
 
 <p>Create a sequence of numbers using the "Blum Blum Shub" pseudo-random number generator:</p>

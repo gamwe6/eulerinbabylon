@@ -1,7 +1,7 @@
 ---
 date: "2011-04-23T16:00:00"
 title: "Spilling the beans"
-description: ""
+description: "Problem 334"
 ---
 
 <p>In Plato's heaven, there exist an infinite number of bowls in a straight line.

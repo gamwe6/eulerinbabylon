@@ -1,7 +1,7 @@
 ---
 date: "2015-12-20T04:00:00"
 title: "Odd elimination"
-description: ""
+description: "Problem 539"
 ---
 
 <p>

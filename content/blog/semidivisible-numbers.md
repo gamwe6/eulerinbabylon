@@ -1,7 +1,7 @@
 ---
 date: "2009-02-28T01:00:00"
 title: "Semidivisible numbers"
-description: ""
+description: "Problem 234"
 ---
 
 <p>For an integer <var>n</var> ≥ 4, we define the <i>lower prime square root</i> of <var>n</var>, denoted by lps(<var>n</var>), as the largest prime ≤ √<var>n</var> and the <i>upper prime square root</i> of <var>n</var>, ups(<var>n</var>), as the smallest prime ≥ √<var>n</var>.</p>

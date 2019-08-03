@@ -1,7 +1,7 @@
 ---
 date: "2004-03-26T18:00:00"
 title: "Diophantine equation"
-description: ""
+description: "Problem 66"
 ---
 
 <p>Consider quadratic Diophantine equations of the form:</p>

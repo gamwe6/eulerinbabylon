@@ -1,7 +1,7 @@
 ---
 date: "2004-05-21T18:00:00"
 title: "Totient permutation"
-description: ""
+description: "Problem 70"
 ---
 
 <p>Euler's Totient function, φ(<var>n</var>) [sometimes called the phi function], is used to determine the number of positive numbers less than or equal to <var>n</var> which are relatively prime to <var>n</var>. For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prime to nine, φ(9)=6.The number 1 is considered to be relatively prime to every positive number, so φ(1)=1. </p>

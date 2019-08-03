@@ -1,7 +1,7 @@
 ---
 date: "2016-01-16T16:00:00"
 title: "Prime-Sum Numbers"
-description: ""
+description: "Problem 543"
 ---
 
 <p>Define function P(<var>n</var>,<var>k</var>) = 1 if <var>n</var> can be written as the sum of <var>k</var> prime numbers (with repetitions allowed), and P(<var>n</var>,<var>k</var>) = 0 otherwise.</p>

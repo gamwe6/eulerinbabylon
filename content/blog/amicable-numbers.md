@@ -1,7 +1,7 @@
 ---
 date: "2002-07-05T18:00:00"
 title: "Amicable numbers"
-description: ""
+description: "Problem 21"
 ---
 
 <p>Let d(<i>n</i>) be defined as the sum of proper divisors of <i>n</i> (numbers less than <i>n</i> which divide evenly into <i>n</i>).

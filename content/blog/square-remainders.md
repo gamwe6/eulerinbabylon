@@ -1,7 +1,7 @@
 ---
 date: "2006-04-21T18:00:00"
 title: "Square remainders"
-description: ""
+description: "Problem 120"
 ---
 
 <p>Let <i>r</i> be the remainder when (<i>a</i>−1)<sup><i>n</i></sup> + (<i>a</i>+1)<sup><i>n</i></sup> is divided by <i>a</i><sup>2</sup>.</p>

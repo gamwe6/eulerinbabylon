@@ -1,7 +1,7 @@
 ---
 date: "2007-11-03T13:00:00"
 title: "Criss Cross"
-description: ""
+description: "Problem 166"
 ---
 
 <p>A 4x4 grid is filled with digits d, 0 ≤ d ≤ 9.</p>

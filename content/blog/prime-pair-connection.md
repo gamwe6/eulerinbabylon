@@ -1,7 +1,7 @@
 ---
 date: "2006-12-15T18:00:00"
 title: "Prime pair connection"
-description: ""
+description: "Problem 134"
 ---
 
 <p>Consider the consecutive primes <i>p</i><sub>1</sub> = 19 and <i>p</i><sub>2</sub> = 23. It can be verified that 1219 is the smallest number such that the last digits are formed by <i>p</i><sub>1</sub> whilst also being divisible by <i>p</i><sub>2</sub>.</p>

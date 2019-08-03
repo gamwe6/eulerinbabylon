@@ -1,7 +1,7 @@
 ---
 date: "2013-01-27T01:00:00"
 title: "Gnomon numbering"
-description: ""
+description: "Problem 412"
 ---
 
 <p>For integers <var>m</var>, <var>n</var> (0 ≤ <var>n</var> &lt; <var>m</var>), let L(<var>m</var>, <var>n</var>) be an <var>m</var>×<var>m</var> grid with the top-right <var>n</var>×<var>n</var> grid removed.</p>

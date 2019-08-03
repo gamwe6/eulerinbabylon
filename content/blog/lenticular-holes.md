@@ -1,7 +1,7 @@
 ---
 date: "2010-06-05T13:00:00"
 title: "Lenticular holes"
-description: ""
+description: "Problem 295"
 ---
 
 <p>We call the convex area enclosed by two circles a <i>lenticular hole</i> if:

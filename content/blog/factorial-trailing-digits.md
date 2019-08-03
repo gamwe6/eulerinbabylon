@@ -1,7 +1,7 @@
 ---
 date: "2007-09-07T14:00:00"
 title: "Factorial trailing digits"
-description: ""
+description: "Problem 160"
 ---
 
 <p>For any N, let f(N) be the last five digits before the trailing zeroes in N!.

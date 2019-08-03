@@ -1,7 +1,7 @@
 ---
 date: "2008-10-04T02:00:00"
 title: "Divisor Square Sum"
-description: ""
+description: "Problem 211"
 ---
 
 <p>For a positive integer <var>n</var>, let σ<sub>2</sub>(<var>n</var>) be the sum of the squares of its divisors. For example,</p>

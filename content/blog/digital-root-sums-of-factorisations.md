@@ -1,7 +1,7 @@
 ---
 date: "2007-06-30T14:00:00"
 title: "Digital root sums of factorisations"
-description: ""
+description: "Problem 159"
 ---
 
 <p>A composite number can be factored many different ways.  

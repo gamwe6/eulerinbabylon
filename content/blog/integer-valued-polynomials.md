@@ -1,7 +1,7 @@
 ---
 date: "2012-11-17T19:00:00"
 title: "Integer-valued polynomials"
-description: ""
+description: "Problem 402"
 ---
 
 <p>

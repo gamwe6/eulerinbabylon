@@ -1,7 +1,7 @@
 ---
 date: "2012-01-14T22:00:00"
 title: "Bozo sort"
-description: ""
+description: "Problem 367"
 ---
 
 <p>

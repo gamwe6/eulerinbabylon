@@ -1,7 +1,7 @@
 ---
 date: "2004-12-03T18:00:00"
 title: "Monopoly odds"
-description: ""
+description: "Problem 84"
 ---
 
 <p>In the game, <i>Monopoly</i>, the standard board is set up in the following way:</p>

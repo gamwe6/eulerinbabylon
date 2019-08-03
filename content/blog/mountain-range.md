@@ -1,7 +1,7 @@
 ---
 date: "2009-10-30T21:00:00"
 title: "Mountain Range"
-description: ""
+description: "Problem 262"
 ---
 
 <p>The following equation represents the <i>continuous</i> topography of a mountainous region, giving the <dfn title="height above sea level">elevation</dfn> <var>h</var> at any point (<var>x</var>,<var>y</var>):</p>

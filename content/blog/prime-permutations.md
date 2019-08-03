@@ -1,7 +1,7 @@
 ---
 date: "2003-08-01T18:00:00"
 title: "Prime permutations"
-description: ""
+description: "Problem 49"
 ---
 
 <p>The arithmetic sequence, 1487, 4817, 8147, in which each of the terms increases by 3330, is unusual in two ways: (i) each of the three terms are prime, and, (ii) each of the 4-digit numbers are permutations of one another.</p>

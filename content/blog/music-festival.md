@@ -1,7 +1,7 @@
 ---
 date: "2014-06-08T10:00:00"
 title: "Music festival"
-description: ""
+description: "Problem 475"
 ---
 
 <p>12<var>n</var> musicians participate at a music festival. On the first day, they form 3<var>n</var> quartets and practice all day.</p>

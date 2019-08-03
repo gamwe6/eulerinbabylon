@@ -1,7 +1,7 @@
 ---
 date: "2009-12-19T09:00:00"
 title: "Polynomials with at least one integer root"
-description: ""
+description: "Problem 269"
 ---
 
 <p>A root or zero of a polynomial P(<var>x</var>) is a solution to the equation P(<var>x</var>) = 0. 

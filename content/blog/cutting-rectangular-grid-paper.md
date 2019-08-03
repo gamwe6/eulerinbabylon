@@ -1,7 +1,7 @@
 ---
 date: "2011-05-15T01:00:00"
 title: "Cutting Rectangular Grid Paper"
-description: ""
+description: "Problem 338"
 ---
 
 <p>A rectangular sheet of grid paper with integer dimensions <var>w</var> × <var>h</var> is given. Its grid spacing is 1.

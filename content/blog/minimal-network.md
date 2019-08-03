@@ -1,7 +1,7 @@
 ---
 date: "2005-10-21T18:00:00"
 title: "Minimal network"
-description: ""
+description: "Problem 107"
 ---
 
 <p>The following undirected network consists of seven vertices and twelve edges with a total weight of 243.</p>

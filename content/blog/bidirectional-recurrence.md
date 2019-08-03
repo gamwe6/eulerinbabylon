@@ -1,7 +1,7 @@
 ---
 date: "2015-03-01T01:00:00"
 title: "Bidirectional Recurrence"
-description: ""
+description: "Problem 505"
 ---
 
 <p>Let:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-02-05T07:00:00"
 title: "Geometric triangles"
-description: ""
+description: "Problem 370"
 ---
 
 <p>Let us define a <i>geometric triangle</i> as an integer sided triangle with sides <var>a</var> ≤ <var>b</var> ≤ <var>c</var> so that its sides form a <b>geometric progression</b>, i.e. <var>b<sup>2</sup></var> = <var>a</var> · <var>c</var> . </p>

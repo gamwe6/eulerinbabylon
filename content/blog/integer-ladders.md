@@ -1,7 +1,7 @@
 ---
 date: "2010-11-06T16:00:00"
 title: "Integer Ladders"
-description: ""
+description: "Problem 309"
 ---
 
 <p>In the classic "Crossing Ladders" problem, we are given the lengths <var>x</var> and <var>y</var> of two ladders resting on the opposite walls of a narrow, level street. We are also given the height <var>h</var> above the street where the two ladders cross and we are asked to find the width of the street (<var>w</var>).</p>

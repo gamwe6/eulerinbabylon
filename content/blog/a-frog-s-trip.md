@@ -1,7 +1,7 @@
 ---
 date: "2013-02-23T13:00:00"
 title: "A frog's trip"
-description: ""
+description: "Problem 416"
 ---
 
 <p>A row of <var>n</var> squares contains a frog in the leftmost square. By successive jumps the frog goes to the rightmost square and then back to the leftmost square. On the outward trip he jumps one, two or three squares to the right, and on the homeward trip he jumps to the left in a similar manner. He cannot jump outside the squares. He repeats the round-trip travel <var>m</var> times.</p>

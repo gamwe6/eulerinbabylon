@@ -1,7 +1,7 @@
 ---
 date: "2011-04-10T10:00:00"
 title: "Spherical triangles"
-description: ""
+description: "Problem 332"
 ---
 
 <p>A <b>spherical triangle</b> is a figure formed on the surface of a sphere by three <b>great circular arcs</b> intersecting pairwise in three vertices.</p>

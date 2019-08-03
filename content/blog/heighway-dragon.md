@@ -1,7 +1,7 @@
 ---
 date: "2008-12-06T09:00:00"
 title: "Heighway Dragon"
-description: ""
+description: "Problem 220"
 ---
 
 <p>Let <b><i>D</i></b><sub>0</sub> be the two-letter string "Fa".  For n≥1, derive <b><i>D</i></b><sub>n</sub> from <b><i>D</i></b><sub>n-1</sub> by the string-rewriting rules:</p>

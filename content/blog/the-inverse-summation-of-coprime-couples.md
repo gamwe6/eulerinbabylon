@@ -1,7 +1,7 @@
 ---
 date: "2013-10-20T10:00:00"
 title: "The inverse summation of coprime couples"
-description: ""
+description: "Problem 441"
 ---
 
 <p>

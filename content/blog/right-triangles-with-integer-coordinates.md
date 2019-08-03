@@ -1,7 +1,7 @@
 ---
 date: "2005-03-18T18:00:00"
 title: "Right triangles with integer coordinates"
-description: ""
+description: "Problem 91"
 ---
 
 <p>The points P (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>) and Q (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>) are plotted at integer co-ordinates and are joined to the origin, O(0,0), to form ΔOPQ.</p>

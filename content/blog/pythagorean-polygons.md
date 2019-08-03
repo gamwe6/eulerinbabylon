@@ -1,7 +1,7 @@
 ---
 date: "2010-05-15T01:00:00"
 title: "Pythagorean Polygons"
-description: ""
+description: "Problem 292"
 ---
 
 <p>We shall define a <i>pythagorean polygon</i>  to be a <b>convex polygon</b> with the following properties:</p><ul><li>there are at least three vertices,</li>

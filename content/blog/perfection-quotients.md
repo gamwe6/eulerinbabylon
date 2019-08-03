@@ -1,7 +1,7 @@
 ---
 date: "2009-04-18T02:00:00"
 title: "Perfection Quotients"
-description: ""
+description: "Problem 241"
 ---
 
 <p>For a positive integer <var>n</var>, let σ(<var>n</var>) be the sum of all divisors of <var>n</var>, so e.g. σ(6) = 1 + 2 + 3 + 6 = 12.

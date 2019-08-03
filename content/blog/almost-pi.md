@@ -1,7 +1,7 @@
 ---
 date: "2014-03-01T16:00:00"
 title: "Almost Pi"
-description: ""
+description: "Problem 461"
 ---
 
 <p>Let <var>f</var><sub><var>n</var></sub>(<var>k</var>) = <var>e</var><sup><var>k</var>/<var>n</var></sup> - 1, for all non-negative integers <var>k</var>.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2014-10-25T19:00:00"
 title: "Palindrome-containing strings"
-description: ""
+description: "Problem 486"
 ---
 
 <p>Let F<sub>5</sub>(<var>n</var>) be the number of strings <var>s</var> such that:</p>

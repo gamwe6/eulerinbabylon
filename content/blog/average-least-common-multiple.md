@@ -1,7 +1,7 @@
 ---
 date: "2013-11-24T01:00:00"
 title: "Average least common multiple"
-description: ""
+description: "Problem 448"
 ---
 
 <p>

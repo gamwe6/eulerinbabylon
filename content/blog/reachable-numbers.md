@@ -1,7 +1,7 @@
 ---
 date: "2009-10-10T13:00:00"
 title: "Reachable Numbers"
-description: ""
+description: "Problem 259"
 ---
 
 <p>A positive integer will be called <i>reachable</i> if it can result from an arithmetic expression obeying the following rules:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2011-02-19T13:00:00"
 title: "Stone Game II"
-description: ""
+description: "Problem 325"
 ---
 
 <p>

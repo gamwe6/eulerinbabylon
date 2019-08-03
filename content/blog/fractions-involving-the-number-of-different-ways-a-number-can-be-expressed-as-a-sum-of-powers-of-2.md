@@ -1,7 +1,7 @@
 ---
 date: "2007-12-28T13:00:00"
 title: "Fractions involving the number of different ways a number can be expressed as a sum of powers of 2"
-description: ""
+description: "Problem 175"
 ---
 
 Define f(0)=1 and f(<var>n</var>) to be the number of ways to write <var>n</var> as a sum of powers of 2 where no power occurs more than twice. 

@@ -1,7 +1,7 @@
 ---
 date: "2010-05-22T05:00:00"
 title: "Pseudo-Fortunate Numbers"
-description: ""
+description: "Problem 293"
 ---
 
 <p>

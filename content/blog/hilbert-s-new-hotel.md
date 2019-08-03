@@ -1,7 +1,7 @@
 ---
 date: "2011-11-19T22:00:00"
 title: "Hilbert's New Hotel"
-description: ""
+description: "Problem 359"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2010-02-06T01:00:00"
 title: "A Modified Collatz sequence"
-description: ""
+description: "Problem 277"
 ---
 
 <p>

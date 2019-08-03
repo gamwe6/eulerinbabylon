@@ -1,7 +1,7 @@
 ---
 date: "2014-09-28T07:00:00"
 title: "The incenter of a triangle"
-description: ""
+description: "Problem 482"
 ---
 
 <p>

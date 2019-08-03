@@ -1,7 +1,7 @@
 ---
 date: "2006-08-18T18:00:00"
 title: "Cuboid layers"
-description: ""
+description: "Problem 126"
 ---
 
 <p>The minimum number of cubes to cover every visible face on a cuboid measuring 3 x 2 x 1 is twenty-two.</p>

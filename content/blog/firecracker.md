@@ -1,7 +1,7 @@
 ---
 date: "2011-01-01T16:00:00"
 title: "Firecracker"
-description: ""
+description: "Problem 317"
 ---
 
 <p>

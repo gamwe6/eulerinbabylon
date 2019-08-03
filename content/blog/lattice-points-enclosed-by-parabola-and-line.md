@@ -1,7 +1,7 @@
 ---
 date: "2012-11-24T22:00:00"
 title: "Lattice points enclosed by parabola and line"
-description: ""
+description: "Problem 403"
 ---
 
 <p>

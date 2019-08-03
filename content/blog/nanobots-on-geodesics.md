@@ -1,7 +1,7 @@
 ---
 date: "2015-11-01T07:00:00"
 title: "Nanobots on Geodesics"
-description: ""
+description: "Problem 532"
 ---
 
 <p>Bob is a manufacturer of nanobots and wants to impress his customers by giving them a ball coloured by his new nanobots as a present.</p>

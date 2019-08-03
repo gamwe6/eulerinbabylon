@@ -1,7 +1,7 @@
 ---
 date: "2001-12-14T18:00:00"
 title: "Sum square difference"
-description: ""
+description: "Problem 6"
 ---
 
 <p>The sum of the squares of the first ten natural numbers is,</p>

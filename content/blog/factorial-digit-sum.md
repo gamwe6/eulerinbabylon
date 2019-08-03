@@ -1,7 +1,7 @@
 ---
 date: "2002-06-21T18:00:00"
 title: "Factorial digit sum"
-description: ""
+description: "Problem 20"
 ---
 
 <p><i>n</i>! means <i>n</i> × (<i>n</i> − 1) × ... × 3 × 2 × 1</p>

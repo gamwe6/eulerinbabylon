@@ -1,7 +1,7 @@
 ---
 date: "2013-05-04T19:00:00"
 title: "Box-ball system"
-description: ""
+description: "Problem 426"
 ---
 
 <p>

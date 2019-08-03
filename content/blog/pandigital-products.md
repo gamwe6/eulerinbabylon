@@ -1,7 +1,7 @@
 ---
 date: "2002-12-06T18:00:00"
 title: "Pandigital products"
-description: ""
+description: "Problem 32"
 ---
 
 <p>We shall say that an <var>n</var>-digit number is pandigital if it makes use of all the digits 1 to <var>n</var> exactly once; for example, the 5-digit number, 15234, is 1 through 5 pandigital.</p>

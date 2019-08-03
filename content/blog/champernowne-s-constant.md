@@ -1,7 +1,7 @@
 ---
 date: "2003-03-28T18:00:00"
 title: "Champernowne's constant"
-description: ""
+description: "Problem 40"
 ---
 
 <p>An irrational decimal fraction is created by concatenating the positive integers:</p>

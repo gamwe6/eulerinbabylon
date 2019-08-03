@@ -1,7 +1,7 @@
 ---
 date: "2011-10-16T07:00:00"
 title: "Distances in a bee's honeycomb "
-description: ""
+description: "Problem 354"
 ---
 
 <p>Consider a honey bee's honeycomb where each cell is a perfect regular hexagon with side length 1.</p>

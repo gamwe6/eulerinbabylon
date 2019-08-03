@@ -1,7 +1,7 @@
 ---
 date: "2016-01-03T10:00:00"
 title: "Divisibility of Harmonic Number Denominators"
-description: ""
+description: "Problem 541"
 ---
 
 <p>The <var>n</var><sup>th</sup><b>harmonic number</b> <var>H<sub>n</sub></var> is defined as the sum of the multiplicative inverses of the first <var>n</var> positive integers, and can be written as a <b>reduced fraction</b> <var>a<sub>n</sub>/b<sub>n</sub></var>.

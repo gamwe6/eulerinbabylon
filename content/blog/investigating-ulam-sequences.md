@@ -1,7 +1,7 @@
 ---
 date: "2007-11-09T13:00:00"
 title: "Investigating Ulam sequences"
-description: ""
+description: "Problem 167"
 ---
 
 <p>For two positive integers a and b, the Ulam sequence U(a,b) is defined by U(a,b)<sub>1</sub> = a, U(a,b)<sub>2</sub> = b and for k &gt; 2,

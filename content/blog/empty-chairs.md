@@ -1,7 +1,7 @@
 ---
 date: "2014-04-26T16:00:00"
 title: "Empty chairs"
-description: ""
+description: "Problem 469"
 ---
 
 <p>

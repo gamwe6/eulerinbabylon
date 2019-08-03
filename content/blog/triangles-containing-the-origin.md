@@ -1,7 +1,7 @@
 ---
 date: "2008-02-29T21:00:00"
 title: "Triangles containing the origin"
-description: ""
+description: "Problem 184"
 ---
 
 <p>Consider the set <var>I<sub>r</sub></var> of points (<var>x</var>,<var>y</var>) with integer co-ordinates in the interior of the circle with radius <var>r</var>, centered at the origin, i.e. <var>x</var><sup>2</sup> + <var>y</var><sup>2</sup> &lt; <var>r</var><sup>2</sup>.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-10-14T08:00:00"
 title: "Cutting rope"
-description: ""
+description: "Problem 398"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2010-10-24T10:00:00"
 title: "Chip Defects"
-description: ""
+description: "Problem 307"
 ---
 
 <p>

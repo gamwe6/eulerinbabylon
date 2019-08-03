@@ -1,7 +1,7 @@
 ---
 date: "2012-05-13T02:00:00"
 title: "Rudin-Shapiro sequence"
-description: ""
+description: "Problem 384"
 ---
 
 <p>Define the sequence a(n) as the number of adjacent pairs of ones in the binary expansion of n (possibly overlapping).

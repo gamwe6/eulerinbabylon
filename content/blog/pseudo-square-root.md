@@ -1,7 +1,7 @@
 ---
 date: "2009-11-28T13:00:00"
 title: "Pseudo Square Root"
-description: ""
+description: "Problem 266"
 ---
 
 <p>

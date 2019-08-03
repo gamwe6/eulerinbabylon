@@ -1,7 +1,7 @@
 ---
 date: "2013-02-10T07:00:00"
 title: "Kaprekar constant"
-description: ""
+description: "Problem 414"
 ---
 
 <p>

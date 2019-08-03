@@ -1,7 +1,7 @@
 ---
 date: "2014-12-06T13:00:00"
 title: "Exploding sequence"
-description: ""
+description: "Problem 492"
 ---
 
 <p>Define the sequence a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ... as:</p>

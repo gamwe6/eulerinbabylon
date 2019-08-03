@@ -1,7 +1,7 @@
 ---
 date: "2001-11-02T18:00:00"
 title: "Largest prime factor"
-description: ""
+description: "Problem 3"
 ---
 
 <p>The prime factors of 13195 are 5, 7, 13 and 29.</p>

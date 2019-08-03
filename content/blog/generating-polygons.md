@@ -1,7 +1,7 @@
 ---
 date: "2012-04-28T20:00:00"
 title: "Generating polygons"
-description: ""
+description: "Problem 382"
 ---
 
 <p>

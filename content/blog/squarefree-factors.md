@@ -1,7 +1,7 @@
 ---
 date: "2011-12-11T07:00:00"
 title: "Squarefree factors"
-description: ""
+description: "Problem 362"
 ---
 
 <p>

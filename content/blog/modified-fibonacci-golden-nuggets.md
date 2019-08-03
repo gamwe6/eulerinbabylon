@@ -1,7 +1,7 @@
 ---
 date: "2007-02-03T07:00:00"
 title: "Modified Fibonacci golden nuggets"
-description: ""
+description: "Problem 140"
 ---
 
 <p>Consider the infinite polynomial series A<sub>G</sub>(<i>x</i>) = <i>x</i>G<sub>1</sub> + <i>x</i><sup>2</sup>G<sub>2</sub> + <i>x</i><sup>3</sup>G<sub>3</sub> + ..., where G<sub><i>k</i></sub> is the <i>k</i>th term of the second order recurrence relation G<sub><i>k</i></sub> = G<sub><i>k</i>−1</sub> + G<sub><i>k</i>−2</sub>, G<sub>1</sub> = 1 and G<sub>2</sub> = 4; that is, 1, 4, 5, 9, 14, 23, ... .</p>

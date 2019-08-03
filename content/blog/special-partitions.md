@@ -1,7 +1,7 @@
 ---
 date: "2011-04-16T13:00:00"
 title: "Special partitions"
-description: ""
+description: "Problem 333"
 ---
 
 <p>All positive integers can be partitioned in such a way that each and every term of the partition can be expressed as 2<sup>i</sup>x3<sup>j</sup>, where i,j ≥ 0.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2014-05-03T19:00:00"
 title: "Super Ramvok"
-description: ""
+description: "Problem 470"
 ---
 
 <p>Consider a single game of Ramvok:</p>

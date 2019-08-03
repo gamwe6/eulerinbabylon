@@ -1,7 +1,7 @@
 ---
 date: "2012-01-22T01:00:00"
 title: "A Kempner-like series"
-description: ""
+description: "Problem 368"
 ---
 
 <p>The <b> harmonic series </b> $1 + \dfrac{1}{2} + \dfrac{1}{3} + \dfrac{1}{4} + ...$ is well known to be divergent.</p>

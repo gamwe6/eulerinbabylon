@@ -1,7 +1,7 @@
 ---
 date: "2011-03-27T05:00:00"
 title: "Euler's Number"
-description: ""
+description: "Problem 330"
 ---
 
 An infinite sequence of real numbers <var>a</var>(<var>n</var>) is defined for all integers <var>n</var> as follows:

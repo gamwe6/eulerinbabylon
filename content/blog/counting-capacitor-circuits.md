@@ -1,7 +1,7 @@
 ---
 date: "2007-05-19T02:00:00"
 title: "Counting Capacitor Circuits"
-description: ""
+description: "Problem 155"
 ---
 
 <p>An electric circuit uses exclusively identical capacitors of the same value C.

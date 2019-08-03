@@ -1,7 +1,7 @@
 ---
 date: "2008-12-13T13:00:00"
 title: "Alexandrian Integers"
-description: ""
+description: "Problem 221"
 ---
 
 <p>We shall call a positive integer <var>A</var> an "Alexandrian integer", if there exist integers <var>p</var>, <var>q</var>, <var>r</var> such that:</p>

@@ -1,7 +1,7 @@
 ---
 date: "2016-02-21T07:00:00"
 title: "Gozinta Chains"
-description: ""
+description: "Problem 548"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2007-03-02T21:00:00"
 title: "Investigating the Torricelli point of a triangle"
-description: ""
+description: "Problem 143"
 ---
 
 <p>Let ABC be a triangle with all interior angles being less than 120 degrees. Let X be any point inside the triangle and let XA = p, XC = q, and XB = r.</p>

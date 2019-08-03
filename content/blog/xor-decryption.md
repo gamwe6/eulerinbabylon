@@ -1,7 +1,7 @@
 ---
 date: "2003-12-19T18:00:00"
 title: "XOR decryption"
-description: ""
+description: "Problem 59"
 ---
 
 <p>Each character on a computer is assigned a unique code and the preferred standard is ASCII (American Standard Code for Information Interchange). For example, uppercase A = 65, asterisk (*) = 42, and lowercase k = 107.</p>

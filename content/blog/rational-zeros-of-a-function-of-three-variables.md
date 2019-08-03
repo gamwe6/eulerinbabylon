@@ -1,7 +1,7 @@
 ---
 date: "2008-02-02T09:00:00"
 title: "Rational zeros of a function of three variables"
-description: ""
+description: "Problem 180"
 ---
 
 <p>For any integer <var>n</var>, consider the three functions</p>

@@ -1,7 +1,7 @@
 ---
 date: "2014-01-18T22:00:00"
 title: "Powers With Trailing Digits"
-description: ""
+description: "Problem 455"
 ---
 
 <p>Let f(n) be the largest positive integer x less than 10<sup>9</sup> such that the last 9 digits of n<sup>x</sup> form the number <i>x</i> (including leading zeros), or zero if no such integer exists.</p>

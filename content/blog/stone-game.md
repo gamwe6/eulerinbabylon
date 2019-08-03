@@ -1,7 +1,7 @@
 ---
 date: "2009-10-16T13:00:00"
 title: "Stone Game"
-description: ""
+description: "Problem 260"
 ---
 
 <p>A game is played with three piles of stones and two players.

@@ -1,7 +1,7 @@
 ---
 date: "2014-02-22T13:00:00"
 title: "An ant on the move"
-description: ""
+description: "Problem 460"
 ---
 
 <p>

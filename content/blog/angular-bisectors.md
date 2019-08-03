@@ -1,7 +1,7 @@
 ---
 date: "2009-09-26T05:00:00"
 title: "Angular Bisectors"
-description: ""
+description: "Problem 257"
 ---
 
 <span style="font-size:11pt;">

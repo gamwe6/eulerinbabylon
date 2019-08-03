@@ -1,7 +1,7 @@
 ---
 date: "2014-09-06T22:00:00"
 title: "Roots on the Rise"
-description: ""
+description: "Problem 479"
 ---
 
 <p>Let <var>a</var><sub>k</sub>, <var>b</var><sub>k</sub>, and <var>c</var><sub>k</sub> represent the three solutions (real or complex numbers) to the expression 1/<var>x</var> = (<var>k</var>/<var>x</var>)<sup>2</sup>(<var>k</var>+<var>x</var><sup>2</sup>) - <var>kx</var>.</p>

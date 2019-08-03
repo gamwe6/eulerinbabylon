@@ -1,7 +1,7 @@
 ---
 date: "2006-12-29T18:00:00"
 title: "Singleton difference"
-description: ""
+description: "Problem 136"
 ---
 
 <p>The positive integers, <i>x</i>, <i>y</i>, and <i>z</i>, are consecutive terms of an arithmetic progression. Given that <i>n</i> is a positive integer, the equation, <i>x</i><sup>2</sup> − <i>y</i><sup>2</sup> − <i>z</i><sup>2</sup> = <i>n</i>, has exactly one solution when <i>n</i> = 20:</p>

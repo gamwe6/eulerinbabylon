@@ -1,7 +1,7 @@
 ---
 date: "2013-10-06T04:00:00"
 title: "Sum of sum of divisors"
-description: ""
+description: "Problem 439"
 ---
 
 <p>Let <var>d</var>(<var>k</var>) be the sum of all divisors of <var>k</var>.

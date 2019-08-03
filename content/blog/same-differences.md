@@ -1,7 +1,7 @@
 ---
 date: "2006-12-29T18:00:00"
 title: "Same differences"
-description: ""
+description: "Problem 135"
 ---
 
 <p>Given the positive integers, <i>x</i>, <i>y</i>, and <i>z</i>, are consecutive terms of an arithmetic progression, the least value of the positive integer, <i>n</i>, for which the equation, <i>x</i><sup>2</sup> − <i>y</i><sup>2</sup> − <i>z</i><sup>2</sup> = <i>n</i>, has exactly two solutions is <i>n</i> = 27:</p>

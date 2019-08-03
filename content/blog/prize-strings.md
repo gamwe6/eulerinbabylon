@@ -1,7 +1,7 @@
 ---
 date: "2008-04-26T01:00:00"
 title: "Prize Strings"
-description: ""
+description: "Problem 191"
 ---
 
 <p>A particular school offers cash rewards to children with good attendance and punctuality. If they are absent for three consecutive days or late on more than one occasion then they forfeit their prize.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2007-01-27T09:00:00"
 title: "Pythagorean tiles"
-description: ""
+description: "Problem 139"
 ---
 
 <p>Let (<i>a</i>, <i>b</i>, <i>c</i>) represent the three sides of a right angle triangle with integral length sides. It is possible to place four such triangles together to form a square with length <i>c</i>.</p>

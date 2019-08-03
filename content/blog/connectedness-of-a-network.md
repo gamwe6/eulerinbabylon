@@ -1,7 +1,7 @@
 ---
 date: "2008-03-15T05:00:00"
 title: "Connectedness of a network"
-description: ""
+description: "Problem 186"
 ---
 
 <p>Here are the records from a busy telephone system with one million users:</p>

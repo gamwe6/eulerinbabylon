@@ -1,7 +1,7 @@
 ---
 date: "2006-02-10T18:00:00"
 title: "Non-bouncy numbers"
-description: ""
+description: "Problem 113"
 ---
 
 <p>Working from left-to-right if no digit is exceeded by the digit to its left it is called an increasing number; for example, 134468.</p>

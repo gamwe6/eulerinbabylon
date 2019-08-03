@@ -1,7 +1,7 @@
 ---
 date: "2006-03-03T18:00:00"
 title: "Red, green or blue tiles"
-description: ""
+description: "Problem 116"
 ---
 
 <p>A row of five grey square tiles is to have a number of its tiles replaced with coloured oblong tiles chosen from red (length two), green (length three), or blue (length four).</p>

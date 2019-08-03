@@ -1,7 +1,7 @@
 ---
 date: "2014-11-01T22:00:00"
 title: "Sums of power sums"
-description: ""
+description: "Problem 487"
 ---
 
 <p>Let f<sub>k</sub>(<var>n</var>) be the sum of the <var>k</var><sup>th</sup> powers of the first <var>n</var> positive integers.</p>

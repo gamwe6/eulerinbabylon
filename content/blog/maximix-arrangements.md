@@ -1,7 +1,7 @@
 ---
 date: "2011-04-30T19:00:00"
 title: "Maximix Arrangements"
-description: ""
+description: "Problem 336"
 ---
 
 <p>A train is used to transport four carriages in the order: ABCD. However, sometimes when the train arrives to collect the carriages they are not in the correct order. 

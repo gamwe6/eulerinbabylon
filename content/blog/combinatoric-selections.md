@@ -1,7 +1,7 @@
 ---
 date: "2003-09-26T18:00:00"
 title: "Combinatoric selections"
-description: ""
+description: "Problem 53"
 ---
 
 <p>There are exactly ten ways of selecting three from five, 12345:</p>

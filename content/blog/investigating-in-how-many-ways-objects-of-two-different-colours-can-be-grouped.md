@@ -1,7 +1,7 @@
 ---
 date: "2008-02-09T13:00:00"
 title: "Investigating in how many ways objects of two different colours can be grouped"
-description: ""
+description: "Problem 181"
 ---
 
 <p>Having three black objects B and one white object W they can be grouped in 7 ways like this:</p>

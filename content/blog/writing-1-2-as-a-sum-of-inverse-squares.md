@@ -1,7 +1,7 @@
 ---
 date: "2007-04-27T14:00:00"
 title: "Writing 1/2 as a sum of inverse squares"
-description: ""
+description: "Problem 152"
 ---
 
 <p>There are several ways to write the number 1/2 as a sum of inverse squares using <i>distinct</i> integers.</p>

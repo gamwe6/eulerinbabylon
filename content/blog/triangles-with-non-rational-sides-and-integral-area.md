@@ -1,7 +1,7 @@
 ---
 date: "2012-06-23T20:00:00"
 title: "Triangles with non rational sides and integral area"
-description: ""
+description: "Problem 390"
 ---
 
 <p>Consider the triangle with sides √5, √65 and √68.

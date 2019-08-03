@@ -1,7 +1,7 @@
 ---
 date: "2003-02-28T18:00:00"
 title: "Pandigital multiples"
-description: ""
+description: "Problem 38"
 ---
 
 <p>Take the number 192 and multiply it by each of 1, 2, and 3:</p>

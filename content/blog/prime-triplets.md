@@ -1,7 +1,7 @@
 ---
 date: "2008-05-30T18:00:00"
 title: "Prime triplets"
-description: ""
+description: "Problem 196"
 ---
 
 <p>Build a triangle from all positive integers in the following way:</p>

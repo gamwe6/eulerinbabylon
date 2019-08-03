@@ -1,7 +1,7 @@
 ---
 date: "2011-06-05T10:00:00"
 title: "Golomb's self-describing sequence"
-description: ""
+description: "Problem 341"
 ---
 
 <p>The <b>Golomb's self-describing sequence</b> {G(<var>n</var>)} is the only nondecreasing sequence of natural numbers such that <var>n</var> appears exactly G(<var>n</var>) times in the sequence. The values of G(<var>n</var>) for the first few <var>n</var> are</p>

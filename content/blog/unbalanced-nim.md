@@ -1,7 +1,7 @@
 ---
 date: "2014-11-09T01:00:00"
 title: "Unbalanced Nim"
-description: ""
+description: "Problem 488"
 ---
 
 <p>Alice and Bob have enjoyed playing <b>Nim</b> every day. However, they finally got bored of playing ordinary three-heap Nim.

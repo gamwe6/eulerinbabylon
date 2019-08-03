@@ -1,7 +1,7 @@
 ---
 date: "2006-02-24T18:00:00"
 title: "Counting block combinations II"
-description: ""
+description: "Problem 115"
 ---
 
 <p class="note">NOTE: This is a more difficult version of <a href="problem%3d114.html">Problem 114</a>.</p>

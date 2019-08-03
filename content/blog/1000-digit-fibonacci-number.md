@@ -1,7 +1,7 @@
 ---
 date: "2002-08-30T18:00:00"
 title: "1000-digit Fibonacci number"
-description: ""
+description: "Problem 25"
 ---
 
 <p>The Fibonacci sequence is defined by the recurrence relation:</p>

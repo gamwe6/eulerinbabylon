@@ -1,7 +1,7 @@
 ---
 date: "2002-12-20T18:00:00"
 title: "Digit cancelling fractions"
-description: ""
+description: "Problem 33"
 ---
 
 <p>The fraction <sup>49</sup>/<sub>98</sub> is a curious fraction, as an inexperienced mathematician in attempting to simplify it may incorrectly believe that <sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, which is correct, is obtained by cancelling the 9s.</p>

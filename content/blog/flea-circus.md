@@ -1,7 +1,7 @@
 ---
 date: "2008-10-18T10:00:00"
 title: "Flea Circus"
-description: ""
+description: "Problem 213"
 ---
 
 <p>A 30×30 grid of squares contains 900 fleas, initially one flea per square.

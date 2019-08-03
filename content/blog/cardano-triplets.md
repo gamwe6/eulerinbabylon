@@ -1,7 +1,7 @@
 ---
 date: "2009-06-20T09:00:00"
 title: "Cardano Triplets"
-description: ""
+description: "Problem 251"
 ---
 
 <p>

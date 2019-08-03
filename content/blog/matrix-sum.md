@@ -1,7 +1,7 @@
 ---
 date: "2011-09-03T16:00:00"
 title: "Matrix Sum"
-description: ""
+description: "Problem 345"
 ---
 
 <p>We define the Matrix Sum of a matrix as the maximum sum of matrix elements with each element being the only one in his row and column. For example, the Matrix Sum of the matrix below equals 3315 ( = 863 + 383 + 343 + 959 + 767):</p>

@@ -1,7 +1,7 @@
 ---
 date: "2008-09-19T18:00:00"
 title: "Circular Logic"
-description: ""
+description: "Problem 209"
 ---
 
 <p>A <var>k</var>-input <i>binary truth table</i> is a map from <var>k</var> input bits

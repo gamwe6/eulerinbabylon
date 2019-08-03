@@ -1,7 +1,7 @@
 ---
 date: "2015-10-18T01:00:00"
 title: "GCD of Divisors"
-description: ""
+description: "Problem 530"
 ---
 
 <p>Every divisor <var>d</var> of a number <var>n</var> has a <b>complementary divisor</b> <var>n</var>/<var>d</var>.</p>

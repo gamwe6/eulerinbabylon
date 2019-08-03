@@ -1,7 +1,7 @@
 ---
 date: "2011-12-04T04:00:00"
 title: "Subsequence of Thue-Morse sequence"
-description: ""
+description: "Problem 361"
 ---
 
 <p>The <b>Thue-Morse sequence</b> {T<sub><var>n</var></sub>} is a binary sequence satisfying:</p>

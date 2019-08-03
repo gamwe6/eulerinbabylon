@@ -1,7 +1,7 @@
 ---
 date: "2010-11-28T01:00:00"
 title: "Cyclic paths on Sierpiński graphs"
-description: ""
+description: "Problem 312"
 ---
 
 <p>- A <b>Sierpiński graph</b> of order-1 (<var>S</var><sub>1</sub>) is an equilateral triangle.

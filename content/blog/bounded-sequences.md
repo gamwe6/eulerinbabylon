@@ -1,7 +1,7 @@
 ---
 date: "2011-01-08T19:00:00"
 title: "Bounded Sequences"
-description: ""
+description: "Problem 319"
 ---
 
 <p>

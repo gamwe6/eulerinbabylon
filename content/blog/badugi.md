@@ -1,7 +1,7 @@
 ---
 date: "2012-01-29T04:00:00"
 title: "Badugi"
-description: ""
+description: "Problem 369"
 ---
 
 <p>In a standard 52 card deck of playing cards, a set of 4 cards is a <b>Badugi</b> if it contains 4 cards with no pairs and no two cards of the same suit.</p>

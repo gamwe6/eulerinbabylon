@@ -1,7 +1,7 @@
 ---
 date: "2014-09-14T01:00:00"
 title: "The Last Question"
-description: ""
+description: "Problem 480"
 ---
 
 <p>Consider all the words which can be formed by selecting letters, in any order, from the phrase:</p>

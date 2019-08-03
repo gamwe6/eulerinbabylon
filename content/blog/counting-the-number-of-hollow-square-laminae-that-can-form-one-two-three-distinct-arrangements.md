@@ -1,7 +1,7 @@
 ---
 date: "2007-12-22T13:00:00"
 title: "Counting the number of \"hollow\" square laminae that can form one, two, three, ... distinct arrangements"
-description: ""
+description: "Problem 174"
 ---
 
 <p>We shall define a square lamina to be a square outline with a square "hole" so that the shape possesses vertical and horizontal symmetry.</p>

@@ -1,7 +1,7 @@
 ---
 date: "2015-09-13T10:00:00"
 title: "Rolling Ellipse"
-description: ""
+description: "Problem 525"
 ---
 
 <p>An ellipse <var>E</var>(<var>a</var>, <var>b</var>) is given at its initial position by equation:

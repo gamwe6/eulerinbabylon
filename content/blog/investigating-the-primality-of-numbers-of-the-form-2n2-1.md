@@ -1,7 +1,7 @@
 ---
 date: "2008-11-07T17:00:00"
 title: "Investigating the primality of numbers of the form 2n2-1"
-description: ""
+description: "Problem 216"
 ---
 
 <p>Consider numbers <var>t</var>(<var>n</var>) of the form <var>t</var>(<var>n</var>) = 2<var>n</var><sup>2</sup>-1 with <var>n</var> &gt; 1.

@@ -1,7 +1,7 @@
 ---
 date: "2016-01-23T19:00:00"
 title: "Chromatic Conundrum"
-description: ""
+description: "Problem 544"
 ---
 
 <p>Let F(<var>r</var>,<var>c</var>,<var>n</var>) be the number of ways to colour a rectangular grid with <var>r</var> rows and <var>c</var> columns using at most <var>n</var> colours such that no two adjacent cells share the same colour. Cells that are diagonal to each other are not considered adjacent.</p>

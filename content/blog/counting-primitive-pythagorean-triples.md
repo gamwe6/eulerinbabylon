@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27T07:00:00"
 title: "Counting primitive Pythagorean triples"
-description: ""
+description: "Problem 540"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2012-04-01T07:00:00"
 title: "Triangle Triples"
-description: ""
+description: "Problem 378"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2005-06-10T18:00:00"
 title: "Large non-Mersenne prime"
-description: ""
+description: "Problem 97"
 ---
 
 <p>The first known prime found to exceed one million digits was discovered in 1999, and is a Mersenne prime of the form 2<sup>6972593</sup>−1; it contains exactly 2,098,960 digits. Subsequently other Mersenne primes, of the form 2<sup><i>p</i></sup>−1, have been found which contain more digits.</p>

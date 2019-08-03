@@ -1,7 +1,7 @@
 ---
 date: "2003-10-10T18:00:00"
 title: "Poker hands"
-description: ""
+description: "Problem 54"
 ---
 
 <p>In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way:</p>

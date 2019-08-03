@@ -1,7 +1,7 @@
 ---
 date: "2008-07-05T14:00:00"
 title: "Subsets with a unique sum"
-description: ""
+description: "Problem 201"
 ---
 
 <p>For any set A of numbers, let sum(A) be the sum of the elements of A.

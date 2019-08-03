@@ -1,7 +1,7 @@
 ---
 date: "2012-04-14T14:00:00"
 title: "Amazing Mazes!"
-description: ""
+description: "Problem 380"
 ---
 
 <p>

@@ -1,7 +1,7 @@
 ---
 date: "2006-07-14T18:00:00"
 title: "Ordered radicals"
-description: ""
+description: "Problem 124"
 ---
 
 <p>The radical of <i>n</i>, rad(<i>n</i>), is the product of the distinct prime factors of <i>n</i>. For example, 504 = 2<sup>3</sup> × 3<sup>2</sup> × 7, so rad(504) = 2 × 3 × 7 = 42.</p>

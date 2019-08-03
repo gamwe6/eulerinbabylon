@@ -1,7 +1,7 @@
 ---
 date: "2007-04-13T22:00:00"
 title: "Searching for a maximum-sum subsequence"
-description: ""
+description: "Problem 149"
 ---
 
 <p>Looking at the table below, it is easy to verify that the maximum possible sum of adjacent numbers in any direction (horizontal, vertical, diagonal or anti-diagonal) <span style="white-space:nowrap;">is 16 (= 8 + 7 + 1).</span></p>

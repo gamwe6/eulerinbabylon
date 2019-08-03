@@ -1,7 +1,7 @@
 ---
 date: "2014-10-05T10:00:00"
 title: "Repeated permutation"
-description: ""
+description: "Problem 483"
 ---
 
 <p>

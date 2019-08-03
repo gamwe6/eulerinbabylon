@@ -1,7 +1,7 @@
 ---
 date: "2010-01-29T21:00:00"
 title: "Primitive Triangles"
-description: ""
+description: "Problem 276"
 ---
 
 <p>Consider the triangles with integer sides a, b and c with a ≤ b ≤ c.

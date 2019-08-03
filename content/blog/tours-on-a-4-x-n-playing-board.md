@@ -1,7 +1,7 @@
 ---
 date: "2009-03-21T13:00:00"
 title: "Tours on a 4 x n playing board"
-description: ""
+description: "Problem 237"
 ---
 
 <p>Let T(<i>n</i>) be the number of tours over a 4 × <i>n</i> playing board such that:</p>

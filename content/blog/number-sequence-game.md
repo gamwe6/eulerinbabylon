@@ -1,7 +1,7 @@
 ---
 date: "2014-08-23T16:00:00"
 title: "Number Sequence Game"
-description: ""
+description: "Problem 477"
 ---
 
 <p>The number sequence game starts with a sequence <var>S</var> of <var>N</var> numbers written on a line.</p>

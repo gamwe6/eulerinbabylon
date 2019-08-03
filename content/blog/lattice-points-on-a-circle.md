@@ -1,7 +1,7 @@
 ---
 date: "2009-02-20T21:00:00"
 title: "Lattice points on a circle"
-description: ""
+description: "Problem 233"
 ---
 
 <p>Let <var>f</var>(<var>N</var>) be the number of points with integer coordinates that are on a circle passing through (0,0), (<var>N</var>,0),(0,<var>N</var>), and (<var>N</var>,<var>N</var>).</p>

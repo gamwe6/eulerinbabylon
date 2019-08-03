@@ -1,7 +1,7 @@
 ---
 date: "2014-11-16T04:00:00"
 title: "Common factors between two sequences"
-description: ""
+description: "Problem 489"
 ---
 
 <p>Let <var>G</var>(<var>a</var>, <var>b</var>) be the smallest non-negative integer <var>n</var> for which <dfn title="Greatest common divisor">gcd</dfn>(<var>n</var><sup>3</sup> + <var>b</var>, (<var>n</var> + <var>a</var>)<sup>3</sup> + <var>b</var>) is maximized.

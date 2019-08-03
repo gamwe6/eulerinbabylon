@@ -1,7 +1,7 @@
 ---
 date: "2011-06-18T16:00:00"
 title: "Fractional Sequences"
-description: ""
+description: "Problem 343"
 ---
 
 <p>For any positive integer <var>k</var>, a finite sequence a<sub><var>i</var></sub> of fractions x<sub><var>i</var></sub>/y<sub><var>i</var></sub> is defined by:

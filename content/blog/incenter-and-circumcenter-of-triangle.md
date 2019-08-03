@@ -1,7 +1,7 @@
 ---
 date: "2015-01-04T01:00:00"
 title: "Incenter and circumcenter of triangle"
-description: ""
+description: "Problem 496"
 ---
 
 <p>Given an integer sided triangle ABC:

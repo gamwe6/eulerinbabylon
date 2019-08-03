@@ -1,7 +1,7 @@
 ---
 date: "2006-12-01T18:00:00"
 title: "Large repunit factors"
-description: ""
+description: "Problem 132"
 ---
 
 <p>A number consisting entirely of ones is called a repunit. We shall define R(<i>k</i>) to be a repunit of length <i>k</i>.</p>
