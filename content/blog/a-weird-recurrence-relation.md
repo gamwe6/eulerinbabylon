@@ -1,0 +1,18 @@
+---
+date: "2014-03-15T22:00:00"
+title: "A weird recurrence relation"
+description: ""
+---
+
+<p>
+The function $f$ is defined for all positive integers as follows:
+</p><ul><li>$f(1)=1$
+</li><li>$f(3)=3$
+</li><li>$f(2n)=f(n)$
+</li><li>$f(4n + 1)=2f(2n + 1) - f(n)$
+</li><li>$f(4n + 3)=3f(2n + 1) - 2f(n)$
+</li>
+</ul><p>The function $S(n)$ is defined as $\sum_{i=1}^{n}f(i)$.</p>
+<p>$S(8)=22$ and $S(100)=3604$.</p>
+<p>Find $S(3^{37})$. Give the last 9 digits of your answer.</p>
+
